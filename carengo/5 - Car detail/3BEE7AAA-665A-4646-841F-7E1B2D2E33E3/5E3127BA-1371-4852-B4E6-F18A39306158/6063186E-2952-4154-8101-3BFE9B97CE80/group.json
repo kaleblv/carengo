@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "6063186E-2952-4154-8101-3BFE9B97CE80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B76A5268-9EED-4E77-A0FC-D9F7EDDA954B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EDD5380B-30AC-4C75-9A5E-0A417E44FC67",
+    "height": 63,
+    "width": 162,
+    "x": 328,
+    "y": 312
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FFF2FE5F-00A5-4230-8419-A36AC0772695"
+    },
+    {
+      "class": "text",
+      "id": "D7A5828C-1F32-4BF2-88F6-D3108B26485B"
+    }
+  ],
+  "name": "Day 24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "352C956C-11B9-49CD-BAD1-52AD50F060C0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

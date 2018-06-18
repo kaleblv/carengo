@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "C250DB75-7027-42F4-B4F7-39AA9D1E31A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B782D16E-D023-4511-B565-0392DCBC2164",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CB9A49BF-E155-4159-9EAD-8A7D034F2441",
+    "height": 23.33333333333334,
+    "width": 14,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "26326F40-6644-4AD5-9BDE-24FDF9373DB2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B345242-F062-4D5F-B4E1-A032CEFF31D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0220EFCC-4829-4888-B788-9CA8C4D430EE"
+    }
+  ],
+  "name": "Gear Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A61AC0C-84EA-4B23-A68D-493D7DCA85C3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A4B10C8D-D166-4396-9D7F-290CDB05777E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 307,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Underline form",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EA29602-3B0A-47EC-A45B-1971E9E065EA",
+      "overrideName": "78084BBE-B753-49C3-8A8A-83FBC3844DFE_stringValue",
+      "value": "CHECK OUT"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D9252B0-748F-43F4-8641-38ECE221178E",
+      "overrideName": "FB255D44-3BDF-4F34-8AE3-F188A1E219AD_stringValue",
+      "value": "Choose Date"
+    }
+  ],
+  "overrides": {
+    "78084BBE-B753-49C3-8A8A-83FBC3844DFE": "CHECK OUT",
+    "FB255D44-3BDF-4F34-8AE3-F188A1E219AD": "Choose Date"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "77DE7B81-5E7A-40FD-B205-D2FD83D2107B",
+  "verticalSpacing": 0
+}

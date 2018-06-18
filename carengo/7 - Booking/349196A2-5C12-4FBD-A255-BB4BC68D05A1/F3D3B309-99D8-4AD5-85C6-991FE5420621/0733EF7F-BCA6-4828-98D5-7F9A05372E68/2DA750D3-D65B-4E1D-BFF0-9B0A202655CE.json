@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2DA750D3-D65B-4E1D-BFF0-9B0A202655CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 310,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filled button (error)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BB4162F-8CAA-4E44-8544-683373B62EED",
+      "overrideName": "E4D13818-0E84-400C-B4F1-ED4F18A26F7E_stringValue",
+      "value": "Confirm and Pay"
+    }
+  ],
+  "overrides": {
+    "E4D13818-0E84-400C-B4F1-ED4F18A26F7E": "Confirm and Pay"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "54ECC998-F950-468D-B34D-D7C5E6E2574F",
+  "verticalSpacing": 0
+}

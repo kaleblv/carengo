@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "44D759DE-53C3-47F8-A68D-2753C86BA711",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 361,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05626B3D-22A8-4CC8-A4E3-51CF6C53C8DB",
+      "overrideName": "D403DAB1-0944-42E9-86C5-7EA6019F0116_stringValue",
+      "value": "EMAIL"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F590139B-903B-42F6-A4C3-8FC1BED7216D",
+      "overrideName": "239885F9-8EBE-406C-8F8F-180357AFE987_stringValue",
+      "value": "john@doe.com"
+    }
+  ],
+  "overrides": {
+    "239885F9-8EBE-406C-8F8F-180357AFE987": "john@doe.com",
+    "D403DAB1-0944-42E9-86C5-7EA6019F0116": "EMAIL"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85A56679-E99A-40F3-9963-B23E31339768",
+  "verticalSpacing": 0
+}

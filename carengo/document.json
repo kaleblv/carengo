@@ -1,0 +1,144 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4232183770247228,
+        "green": 0.1019607843137255,
+        "red": 0.9764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1333333333333333,
+        "green": 0.1333333333333333,
+        "red": 0.1333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5340587496757507,
+        "green": 0.5344152450561523,
+        "red": 0.5339933633804321
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7480601616,
+        "green": 0.7480601616,
+        "red": 0.7480601616
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8574351615646258,
+        "green": 0.8574351615646258,
+        "red": 0.8574351615646258
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9607843137254902,
+        "green": 0.9607843137254902,
+        "red": 0.9607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9839764030612245,
+        "green": 0.9839764030612245,
+        "red": 0.9839764030612245
+      },
+      {
+        "_class": "color",
+        "alpha": 0.06,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.5, 0.5}",
+        "gradientType": 1,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 1,
+              "green": 1,
+              "red": 1
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9889439951099226,
+              "green": 0.9889439951099226,
+              "red": 0.9889439951099226
+            },
+            "position": 0.7679093567251463
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9082429846938775,
+              "green": 0.9082429846938775,
+              "red": 0.9082429846938775
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "E43FF92C-06D2-4B98-B9E9-E1EC2DE191FF",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
+  },
+  "pages": [
+    "1 - Homepage",
+    "2 - Menu",
+    "3 - Footer",
+    "4 - Car Listing",
+    "5 - Car detail",
+    "6 - Services",
+    "7 - Booking",
+    "8 - Login",
+    "9 - Sign Up",
+    "10 - Rent your car",
+    "11 - Blog",
+    "12 - Corporate pages",
+    "Symbols"
+  ]
+}

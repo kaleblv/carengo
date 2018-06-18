@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "9DEB4F86-FFF3-4142-80F5-7C770129C526",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2FA5876-4236-4E0A-9FBB-5CB634A3034F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA44AC7C-E0CD-4737-A1F1-158D2BC4E93D",
+    "height": 50,
+    "width": 176,
+    "x": 185,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "829CA518-F0F3-494C-98F6-8703744647E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EECE0E3D-C2BE-492C-97B6-EEF7A5BD9E13"
+    }
+  ],
+  "name": "Fav Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7B18226-56FA-47AD-8F56-DE95B6E2CCA1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

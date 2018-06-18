@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3AF1EC5D-7B20-44BE-BDB1-15210431278A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C2F3104-DDFB-411B-90E9-E9538ADB4929",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1D568F8-7496-43F4-BEC2-C81CA9ABEF16",
+    "height": 50,
+    "width": 176,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Fav button (active)",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4D5F31D-93EE-4ABA-9A2A-6A310B1DA312",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E5753236-B5C4-4AD5-9AFC-CFF89DF5EE3E",
+  "verticalSpacing": 0
+}

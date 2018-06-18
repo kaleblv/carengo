@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "C72C4A26-AC17-4BBD-A818-C542AF1B5F24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "932D4229-A61D-4ECC-954F-FAC5E414A46E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "983DA317-C5EE-4CB5-9397-7A7362F5899C",
+    "height": 63,
+    "width": 162,
+    "x": 978,
+    "y": 248
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A08C4BC1-6319-4B3F-9EB3-710BDA9AA46E"
+    },
+    {
+      "class": "text",
+      "id": "BFEC6F62-BFA8-47E7-8320-12954EC8918C"
+    }
+  ],
+  "name": "Day 21",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00795F49-46BF-4BD8-8D83-F2BE6C6D5871",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "10D73770-E782-43F8-826F-4716D8E80A6E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B32CBA6-D10A-4114-A4B0-00C89D736506",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A21E6448-8532-4F02-AFE2-A4FA20F984A7",
+    "height": 24,
+    "width": 89,
+    "x": 195,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CD420603-EEF5-4862-94EF-27D2891F6780"
+    },
+    {
+      "class": "group",
+      "id": "CD4D5253-60EC-459B-BD2F-F1340EB5D16C"
+    }
+  ],
+  "name": "Gear",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "350D4577-2D8D-43DF-98F9-1FBC93E41121",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

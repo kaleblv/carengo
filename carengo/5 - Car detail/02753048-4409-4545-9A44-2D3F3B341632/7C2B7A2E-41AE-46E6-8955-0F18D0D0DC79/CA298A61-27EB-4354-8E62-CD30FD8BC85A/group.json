@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "CA298A61-27EB-4354-8E62-CD30FD8BC85A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB295343-1CFB-4F38-A92D-0D75303EED5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C926F35C-0C37-47C9-B144-7FB43395BDE9",
+    "height": 63,
+    "width": 162,
+    "x": 2,
+    "y": 184
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8A6803F6-A832-4F4F-8C5C-45BEC3619937"
+    },
+    {
+      "class": "text",
+      "id": "B3ECCF31-C2FA-45BB-A038-3EE0CB602545"
+    }
+  ],
+  "name": "Day 8",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33270105-999F-4B76-B404-D2553A9D0EB0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

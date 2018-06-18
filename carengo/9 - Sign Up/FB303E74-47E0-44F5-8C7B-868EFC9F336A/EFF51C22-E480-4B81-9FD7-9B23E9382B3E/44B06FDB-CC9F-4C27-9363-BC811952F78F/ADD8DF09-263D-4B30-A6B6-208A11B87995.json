@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ADD8DF09-263D-4B30-A6B6-208A11B87995",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 361,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "45B7DDC8-24B6-4BDA-B1AE-5D26C71004C9",
+      "overrideName": "D403DAB1-0944-42E9-86C5-7EA6019F0116_stringValue",
+      "value": "SURNAME"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7739AB6-B838-485B-801F-9B86AF0205E4",
+      "overrideName": "239885F9-8EBE-406C-8F8F-180357AFE987_stringValue",
+      "value": "Doe"
+    }
+  ],
+  "overrides": {
+    "239885F9-8EBE-406C-8F8F-180357AFE987": "Doe",
+    "D403DAB1-0944-42E9-86C5-7EA6019F0116": "SURNAME"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85A56679-E99A-40F3-9963-B23E31339768",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "D47C4BD5-BF2C-484D-A878-814A3CB24E25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C738EC93-013A-4E22-A696-9A5DCCDD0B75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6659A3CE-E00E-43D6-AE81-0E0E2AE28EDE",
+    "height": 26,
+    "width": 13,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B982C98-853A-410B-A333-4E9B04602262"
+    }
+  ],
+  "name": "Person Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B127DE6-8209-4DF1-9729-4510F44FBD0F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

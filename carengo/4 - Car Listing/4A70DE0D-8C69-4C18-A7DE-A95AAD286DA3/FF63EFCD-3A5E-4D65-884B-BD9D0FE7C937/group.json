@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "FF63EFCD-3A5E-4D65-884B-BD9D0FE7C937",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC29AC65-4540-46B1-8A7F-1E660B05E28A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14258071-D201-41D3-80BD-FA567EF4C9DD",
+    "height": 267,
+    "width": 1140,
+    "x": 390,
+    "y": 766
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2FDEBF36-9C7F-4AD9-9B44-3C4B21468355"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8F42F7B-2372-40F7-AAC3-99FE081343D3"
+    },
+    {
+      "class": "group",
+      "id": "9DB28C4B-094D-4C44-AEA8-2697E383E90C"
+    },
+    {
+      "class": "group",
+      "id": "41809F37-6B02-4C0E-9372-2FA8EC64479C"
+    },
+    {
+      "class": "text",
+      "id": "C690105D-2BC1-43CF-BF54-888754684709"
+    },
+    {
+      "class": "text",
+      "id": "AC22403E-63BE-4C4B-A60F-D2327BEE6EF4"
+    }
+  ],
+  "name": "Car 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16AC99AB-30B4-4D86-A3CF-BC0D10FEEDED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

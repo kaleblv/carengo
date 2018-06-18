@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "57594FC3-9F8E-4A95-B939-E90D1C4E8251",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5646F2FD-0C4C-4649-9CCC-1408516991EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DE5FDF9-B453-4358-B29D-EE6D9AB6E2DA",
+    "height": 283,
+    "width": 517,
+    "x": 40,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "16850602-5E3C-4B9B-A276-6DAEB52C33ED"
+    },
+    {
+      "class": "text",
+      "id": "BD51AEF3-B613-4784-ABDD-1B1B837A99E2"
+    },
+    {
+      "class": "text",
+      "id": "FE2B41A7-B745-43E0-9AA7-7B3683CF9338"
+    },
+    {
+      "class": "text",
+      "id": "D55FEACC-CBDF-4DF9-AE41-BF6D51D3C51C"
+    },
+    {
+      "class": "text",
+      "id": "38A53F2E-4D19-4BCC-BD9C-CA4BF3902CAF"
+    },
+    {
+      "class": "text",
+      "id": "67576166-0B1D-4D65-BB60-4615AD5A2FFA"
+    },
+    {
+      "class": "text",
+      "id": "E81933F8-622D-44A9-93BC-B888B4DB3793"
+    },
+    {
+      "class": "text",
+      "id": "3513D015-38E9-4D1E-B0EB-109FB5347E38"
+    },
+    {
+      "class": "text",
+      "id": "D343CE3C-753A-4E19-8CD9-B5F6DBBACC7F"
+    },
+    {
+      "class": "text",
+      "id": "93F4A573-3BD6-4622-AA09-D577246AD1A4"
+    },
+    {
+      "class": "text",
+      "id": "A2AB9D1A-D330-4BAD-81BD-61133B5311C3"
+    },
+    {
+      "class": "text",
+      "id": "A1A7227B-4F4C-46B5-97FA-84F471862B44"
+    }
+  ],
+  "name": "Texts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05C96D7C-D6C6-4398-ADEC-7633A7005E38",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7736A696-2E29-4A82-BD88-87B7E213FBF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3839C2E-E12C-425B-BEED-BB4B2F7F459C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A2BCE13-BD7B-484A-A495-1BC0C68228C4",
+    "height": 271,
+    "width": 1920,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Corporate Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D59927C-AEB3-424C-B053-4DF2376C6F84",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E13D000C-B6D7-4854-A3F5-8A8ADDB3DB0F",
+  "verticalSpacing": 0
+}

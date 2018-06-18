@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "A84A586C-88CC-4CC2-B641-AE474AE846DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6538B7B5-39F9-4682-A294-29AB5B20F822",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "485A7067-0DDE-47AA-8051-9FFB6901D577",
+    "height": 32,
+    "width": 50,
+    "x": 127,
+    "y": 27
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B242C28C-9337-4463-AA25-C16F870B5C22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F4529E4-78D2-46B1-AEC4-1136D7E51B2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71317EC9-4A29-4910-B341-8EF1F9780826"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5706CF9-E883-4322-B312-7126E717A3CE"
+    }
+  ],
+  "name": "Card back",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C7C567B2-87A4-4B8C-A9D4-876AA3480A75",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "FC83BAA6-9E53-48EE-91C2-2E4E7489F12E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "do_objectID": "E3BE25CE-1096-48FF-80F1-45496B3EB1B7",
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

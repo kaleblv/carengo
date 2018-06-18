@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "CADBBE7F-AB2E-4FC4-A6BE-A1D1299696BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CB31D63-9964-4266-A813-AFEB1844F8E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D7F0698-BEDC-4C22-A3B0-21CD4BBD2A70",
+    "height": 12,
+    "width": 98,
+    "x": 45,
+    "y": 27
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "51520230-1159-4907-A1EC-48B4869F6FFE"
+    },
+    {
+      "class": "text",
+      "id": "C698B549-0DEF-4937-A9A6-FD4F70C885FF"
+    }
+  ],
+  "name": "Drop off button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9C9EE9B-F569-42AC-9953-28F48553C93F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "964DED74-F8E1-4A45-954A-C87E05874B71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AA83AB5-D506-4B54-890E-9C45564AD9B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4CB1BBC-FB70-4C73-B6EB-D9C5CA0CC23D",
+    "height": 63,
+    "width": 162,
+    "x": 165,
+    "y": 248
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E79496AD-0FDD-4E0D-BAED-185085F99663"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E479A3C0-11BC-4486-9E7E-E911080587FA"
+    },
+    {
+      "class": "text",
+      "id": "DDB7DA2E-E619-4563-A869-DF22646CEA8E"
+    }
+  ],
+  "name": "Day 16 (selected)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "829A1ADE-313C-40E7-8324-36DFDB7F2BB0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

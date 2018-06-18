@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "67978F21-32E1-436A-8D2A-BCB1FE6AEF79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5506B455-08DC-466F-9CE1-6D9DD7D4C041",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90DA51DF-BD48-431F-B38D-2910B4A1C8C5",
+    "height": 50,
+    "width": 218,
+    "x": 499,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "26F963D4-A070-4735-B57F-CA43994BCCA2"
+    }
+  ],
+  "name": "Sport",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3837E611-FC63-4CF4-BA19-00E411F79E4C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

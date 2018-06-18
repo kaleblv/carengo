@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "8AC067C1-548A-4A43-8599-D07194F136B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "731AE0EE-933A-4ECA-8010-E76DC3F5D994",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD11B7A5-9B1A-48A9-B893-913610EC1339",
+    "height": 70,
+    "width": 263,
+    "x": 45,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A5FBD428-DCE6-4C5C-A5CC-15F504237F11"
+    },
+    {
+      "class": "text",
+      "id": "D6F88262-881D-468A-8FEA-0BD1E7339339"
+    },
+    {
+      "class": "text",
+      "id": "C988E4D4-E830-42F8-B855-662141764014"
+    },
+    {
+      "class": "text",
+      "id": "2CAB9BBC-FF23-4998-849B-9FDEE2D69E01"
+    }
+  ],
+  "name": "Pick Up",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F6CC4E9-4328-4669-8686-F5EBCA8D6ABD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

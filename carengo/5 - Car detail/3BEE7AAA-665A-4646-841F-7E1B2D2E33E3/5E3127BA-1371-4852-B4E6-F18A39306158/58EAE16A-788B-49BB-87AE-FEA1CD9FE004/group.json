@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "58EAE16A-788B-49BB-87AE-FEA1CD9FE004",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "441AB488-2319-45D8-9BEB-2CE3AC3E2535",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2EF161CD-B435-4128-B8F7-A02606A00172",
+    "height": 63,
+    "width": 162,
+    "x": 816,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63AD7339-9CF4-443A-9A31-CAB6BBCAF0F3"
+    },
+    {
+      "class": "text",
+      "id": "B4DEF6DB-FA66-4DD1-B5D3-E15B8985022A"
+    }
+  ],
+  "name": "Day 6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9621F67A-BCCC-4821-BEA7-35EF193E4D6B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "C0A4DF77-F42B-4244-ABA8-066BF356BDC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E1179B9-BB14-4984-A5F0-3AA915CE1503",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93F354C3-6D3E-4576-86B0-6FB543B6DE73",
+    "height": 50,
+    "width": 150,
+    "x": 185,
+    "y": 421
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E8922AE2-D220-46EB-9A0B-78643A7AF958"
+    }
+  ],
+  "name": "Sign In button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D66897DC-42BC-4AA4-8C9C-C71DA0BE4203",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "719EBB14-60BC-44DC-A7A5-F714B67CD116",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B8C96EC-80B1-4643-B99C-AD92030F1BAE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4240C04F-7918-476F-8772-F6E4C49C6F53",
+    "height": 14,
+    "width": 205,
+    "x": 390,
+    "y": 351
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B64FD4DB-B5AA-4829-BDDE-7877D5A51AAD"
+    }
+  ],
+  "name": "Existing customer button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6818F617-4924-43FC-BF6F-039988BBB708",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

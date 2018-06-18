@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "410D58A8-A976-4129-86C4-87B9A84BD4E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8AB00B69-4F4C-4000-8AEA-FAECB035EED6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C394DBB-786A-4758-BEE7-F2E35E22F106",
+    "height": 26,
+    "width": 120,
+    "x": 127,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8DAF87BA-F28A-4FAB-B909-E050A14F7F36"
+    },
+    {
+      "class": "group",
+      "id": "4271C7C3-20EA-49CB-8072-0FFEBD46EEA4"
+    }
+  ],
+  "name": "Comments",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7C2E456-11EC-49BD-AEAB-F825FB192CF1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

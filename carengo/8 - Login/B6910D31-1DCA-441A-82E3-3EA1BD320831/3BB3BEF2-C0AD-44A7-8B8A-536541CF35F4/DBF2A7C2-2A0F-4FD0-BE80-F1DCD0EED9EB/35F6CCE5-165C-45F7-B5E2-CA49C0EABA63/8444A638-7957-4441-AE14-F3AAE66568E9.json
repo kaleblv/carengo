@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8444A638-7957-4441-AE14-F3AAE66568E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 361,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form input (error)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CB4FFCE-C2F7-4DD7-AA85-170976CD6340",
+      "overrideName": "9A4448EC-BC8D-42BE-997C-E28E35AB23FB_stringValue",
+      "value": "PASSWORD"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "40E244D3-2269-4971-B769-D0170D33DFBB",
+      "overrideName": "A6387C02-87AC-4693-9D48-7545AD06D85C_stringValue",
+      "value": "xxxxx"
+    }
+  ],
+  "overrides": {
+    "9A4448EC-BC8D-42BE-997C-E28E35AB23FB": "PASSWORD",
+    "A6387C02-87AC-4693-9D48-7545AD06D85C": "xxxxx"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0322BCA5-6DDD-4C19-A32C-BF86CB29C439",
+  "verticalSpacing": 0
+}

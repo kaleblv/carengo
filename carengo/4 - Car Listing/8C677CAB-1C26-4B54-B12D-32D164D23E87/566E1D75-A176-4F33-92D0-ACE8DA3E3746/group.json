@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "566E1D75-A176-4F33-92D0-ACE8DA3E3746",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 431,
+    "width": 360,
+    "x": 780,
+    "y": 1421
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1E29C853-4F3D-4BA0-9946-BA3E5C1B347D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7751086C-4A07-4F91-8878-C9ED92C0DB72"
+    },
+    {
+      "class": "group",
+      "id": "2C1DE980-4710-4A71-A773-DFBBBEF79428"
+    },
+    {
+      "class": "group",
+      "id": "B3DBB17D-FA7F-41EB-B25B-9EA22BC54123"
+    },
+    {
+      "class": "text",
+      "id": "D05BC1D6-0FE9-4F96-87E6-CD6614654742"
+    }
+  ],
+  "name": "Car 8",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

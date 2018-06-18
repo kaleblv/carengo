@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "873BA02F-9E21-4B9E-8DDB-54EA4184BC45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E3BA1C7-F741-4C6E-BE3B-6F204FC6C62C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "823988A7-321E-4295-9140-67428BA4D439",
+    "height": 56,
+    "width": 307,
+    "x": 24,
+    "y": 250
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A4B10C8D-D166-4396-9D7F-290CDB05777E"
+    }
+  ],
+  "name": "Check Out",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8371B661-CD9E-4C3E-878B-37297D1A2E64",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

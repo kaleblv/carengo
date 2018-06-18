@@ -1,0 +1,150 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9839764030612245,
+    "do_objectID": "EBCF4A17-9A64-4CBB-B07E-7C5CE3449244",
+    "green": 0.9839764030612245,
+    "red": 0.9839764030612245
+  },
+  "do_objectID": "42A3FCF1-0458-4321-85AA-BC773D4D4496",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3ACFB1B-6087-43AE-8EAA-352584C38CCF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "827C1173-2774-40E0-AEDC-35BB4DD0FC64",
+    "height": 2242,
+    "width": 1920,
+    "x": -890,
+    "y": -532
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5A7486C3-4725-4FE7-8528-4AB9C60FEB24",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3AEC201E-59F6-47D2-884D-3BE3E189A4C5"
+    },
+    {
+      "class": "group",
+      "id": "AE420A65-BF1E-4A4F-BCD6-5CADF1F364DF"
+    },
+    {
+      "class": "group",
+      "id": "521ABCC0-0FC8-44E7-954C-D2D69802CFEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7EDA1BE3-1AC7-40F2-B729-0887E1546F53"
+    },
+    {
+      "class": "group",
+      "id": "B5822394-765D-4422-90E5-12AE97914A94"
+    },
+    {
+      "class": "group",
+      "id": "EA4538FD-C870-4A84-87A9-D7F4CD4D17B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "535EF65A-75D1-4AE4-940F-47409352B59D"
+    },
+    {
+      "class": "group",
+      "id": "9C338465-6F4F-4877-BF56-1C8DC7F7471B"
+    },
+    {
+      "class": "text",
+      "id": "71423076-F4C8-44FE-AE9A-88AAB21354AA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 67.5,
+    "do_objectID": "78647E4F-926F-4CEB-9181-753AF872A5FB",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 375,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "name": "1 - Book Car",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BBAF332-BFEE-46B6-B8DB-04E81D4D3F66",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -14,
+    "do_objectID": "61937446-E8E6-4417-A136-D63CC9D3585C",
+    "guides": [
+    ]
+  }
+}

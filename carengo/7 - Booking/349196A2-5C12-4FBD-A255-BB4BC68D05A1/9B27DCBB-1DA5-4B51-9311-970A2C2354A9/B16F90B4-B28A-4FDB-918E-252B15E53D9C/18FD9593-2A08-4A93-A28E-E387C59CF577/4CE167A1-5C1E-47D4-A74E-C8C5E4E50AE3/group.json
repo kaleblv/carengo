@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "4CE167A1-5C1E-47D4-A74E-C8C5E4E50AE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E95AAC4-E7E6-4F7D-B94C-5794AF3872A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0026177B-15A4-45C1-AE9C-DB251A10F809",
+    "height": 32,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E714542F-A2B2-4D8C-804F-9C6D3B24B969"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1416FB6-E75B-4EE1-A89A-CCFC15A84FE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0321947-FD13-4C8E-B6B9-C76768D94147"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13E5FF57-B09D-4DEA-A13E-558DD0A5A110"
+    }
+  ],
+  "name": "Mastercard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B23001F2-B87F-4F3B-AD6F-E8DBDCA38092",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "8F3E9E3F-3FB6-4CF8-A505-272B1895568D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "do_objectID": "6808E941-C1F5-4C89-8F0A-4246235256C2",
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

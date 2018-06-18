@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "F576BD97-5D8B-4F68-897A-97F9BDF53AF6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 203,
+    "x": 570,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D75A406-4668-4843-AF11-AB53414CE323"
+    },
+    {
+      "class": "text",
+      "id": "57D80CBF-83A0-4288-B9EC-927437221A85"
+    },
+    {
+      "class": "text",
+      "id": "03133B23-225B-49E3-9ED2-4BDAB98523E0"
+    },
+    {
+      "class": "text",
+      "id": "84C3BDDD-0F1E-49DA-A824-C34376C984BF"
+    }
+  ],
+  "name": "Check Out",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

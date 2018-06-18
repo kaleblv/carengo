@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "00635824-2267-4EB3-8E18-5B76428EE381",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18908858-3273-4FF5-A463-F3B2418B698B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF4F14EE-303D-48A1-BDF0-26689ABE2EA8",
+    "height": 16,
+    "width": 114,
+    "x": 140,
+    "y": 145
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "30E01E46-A528-48FC-9983-707CC2441708"
+    },
+    {
+      "class": "text",
+      "id": "40B5A92D-CE89-4407-B16E-CBEEA624D40C"
+    },
+    {
+      "class": "text",
+      "id": "24660E9B-ADD1-4D4F-A912-EB9987ADF88C"
+    },
+    {
+      "class": "text",
+      "id": "B058F23F-1AFC-46ED-B515-7901E3987838"
+    }
+  ],
+  "name": "Social 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86C45134-FB25-4A14-B79E-F53DF7828962",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

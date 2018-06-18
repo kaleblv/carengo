@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B37EFA0D-2A4D-409F-817D-E516BE5C66D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAFF5C31-CE23-4E1C-937C-498E72366857",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A6535BC-687A-4337-84E4-510908D055FF",
+    "height": 29,
+    "width": 108,
+    "x": 982,
+    "y": 137
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE2CA48E-3C3C-4B1A-A18A-7DF66944DA10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D23C521B-FC32-40C6-AABB-F7C676B31C26"
+    },
+    {
+      "class": "text",
+      "id": "FDD9194E-5DB5-4714-AFD7-59F7FEEB9C11"
+    }
+  ],
+  "name": "In use Badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB2F8CAD-EB3A-48B3-8595-54A7870ED02C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

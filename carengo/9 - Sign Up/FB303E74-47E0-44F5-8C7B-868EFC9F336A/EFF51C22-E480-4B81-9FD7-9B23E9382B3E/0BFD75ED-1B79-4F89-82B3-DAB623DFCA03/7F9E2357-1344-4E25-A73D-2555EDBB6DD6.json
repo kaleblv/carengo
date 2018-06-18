@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7F9E2357-1344-4E25-A73D-2555EDBB6DD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 361,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F18827C-E1E9-449D-8E73-1B7D50FADABA",
+      "overrideName": "D403DAB1-0944-42E9-86C5-7EA6019F0116_stringValue",
+      "value": "EMAIL"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5456EDD0-EBC0-424D-9047-1838BD8225BB",
+      "overrideName": "239885F9-8EBE-406C-8F8F-180357AFE987_stringValue",
+      "value": "john@dor.com"
+    }
+  ],
+  "overrides": {
+    "239885F9-8EBE-406C-8F8F-180357AFE987": "john@dor.com",
+    "D403DAB1-0944-42E9-86C5-7EA6019F0116": "EMAIL"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85A56679-E99A-40F3-9963-B23E31339768",
+  "verticalSpacing": 0
+}

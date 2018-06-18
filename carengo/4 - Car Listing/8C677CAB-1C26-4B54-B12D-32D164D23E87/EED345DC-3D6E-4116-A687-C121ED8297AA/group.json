@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "EED345DC-3D6E-4116-A687-C121ED8297AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 431,
+    "width": 360,
+    "x": 390,
+    "y": 940
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E0BF8D77-EE14-4136-BE15-EBF2665F0CB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7536DA7-FFED-4457-A8E2-248EF3E299FE"
+    },
+    {
+      "class": "group",
+      "id": "AD81AD00-C147-45FB-A88B-4D5CF33113A6"
+    },
+    {
+      "class": "group",
+      "id": "BFE36415-9039-4E96-8B78-5719CC3CEA07"
+    },
+    {
+      "class": "text",
+      "id": "ABA12837-BC89-4A2F-BCFC-9D1071E0206E"
+    }
+  ],
+  "name": "Car 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

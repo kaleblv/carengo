@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "A52664C0-A2A8-49E3-B37B-171762ADBA2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4E9F277-5213-455E-A388-7089270157BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83A402BB-741F-472E-BFB3-37F8BBF82DD3",
+    "height": 152,
+    "width": 750,
+    "x": 390,
+    "y": 1324
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6FF4BDE0-AE39-4862-80D7-6A16DED5C789"
+    },
+    {
+      "class": "text",
+      "id": "0128228B-8D0B-4955-9CBA-1FF7B0FB8430"
+    },
+    {
+      "class": "text",
+      "id": "51114E99-6662-4491-A2C7-CC060E8196F4"
+    }
+  ],
+  "name": "Paypal checkout",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6E7CBF9-CBC9-4245-8C01-896AFB8C8E90",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

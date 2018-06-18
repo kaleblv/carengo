@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "B07F3E6F-9249-434A-A26E-D02F55E5F05D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F32BFABD-4E7E-4F1A-98F8-AD45599FB7BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "78C18CFC-83DE-43C2-BA1C-0D1707434D85",
+    "height": 496,
+    "width": 1140,
+    "x": 390,
+    "y": 2365
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3F28809C-4445-47C9-BF92-840CBFC56ADE"
+    },
+    {
+      "class": "group",
+      "id": "A434463B-2993-4E74-A55E-EB5C755252D5"
+    },
+    {
+      "class": "group",
+      "id": "909025C1-D580-4298-B4D4-55A966913248"
+    },
+    {
+      "class": "text",
+      "id": "D63D0BA7-8D6F-4E38-8C9B-9322F60EEC6D"
+    }
+  ],
+  "name": "Similar Cars",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAF7B2D2-C86F-4D97-A905-3F3B06A1017B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

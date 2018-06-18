@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C622C41F-6850-4274-9373-CC4EBE8C4470",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 361,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E2EA108-618E-4229-BBC2-7C29F8234737",
+      "overrideName": "D403DAB1-0944-42E9-86C5-7EA6019F0116_stringValue",
+      "value": "PHONE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC03DBBE-E8BC-46FF-B5F6-7FD17B9AF5C9",
+      "overrideName": "239885F9-8EBE-406C-8F8F-180357AFE987_stringValue",
+      "value": "00 33 876 54 32"
+    }
+  ],
+  "overrides": {
+    "239885F9-8EBE-406C-8F8F-180357AFE987": "00 33 876 54 32",
+    "D403DAB1-0944-42E9-86C5-7EA6019F0116": "PHONE"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85A56679-E99A-40F3-9963-B23E31339768",
+  "verticalSpacing": 0
+}

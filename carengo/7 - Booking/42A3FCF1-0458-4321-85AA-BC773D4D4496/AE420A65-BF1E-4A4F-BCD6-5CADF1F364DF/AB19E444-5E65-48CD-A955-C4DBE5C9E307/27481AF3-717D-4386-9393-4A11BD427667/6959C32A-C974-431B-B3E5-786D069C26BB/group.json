@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "6959C32A-C974-431B-B3E5-786D069C26BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FDFB943C-E025-4C8C-B710-A76E29CCC6DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7F39F84-35C3-4FA2-872C-0E2F84A8BCE6",
+    "height": 32,
+    "width": 50,
+    "x": 63,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "33D1C773-D499-4E2D-8166-9AF572A86AC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "533BA883-C81C-4DE6-B5E1-76F435E95E3B"
+    }
+  ],
+  "name": "Amex",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BB0B2188-62D0-49E8-9B32-2BEF1490C3EF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "0EB67B12-2E3E-4082-8AA0-98C933933594",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "do_objectID": "EE8B221E-DCAA-4E67-92AB-570E42E95AED",
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

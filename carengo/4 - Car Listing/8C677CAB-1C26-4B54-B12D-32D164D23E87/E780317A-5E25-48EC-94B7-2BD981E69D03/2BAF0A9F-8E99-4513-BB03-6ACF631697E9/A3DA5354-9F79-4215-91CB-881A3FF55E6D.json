@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A3DA5354-9F79-4215-91CB-881A3FF55E6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34ADB5F2-00F7-453D-A932-DC689E9C3964",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50E4D47D-009D-485B-9E1B-B20681B3E78C",
+    "height": 50,
+    "width": 218,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Line button (color)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23F0BA0E-FA5A-473C-BE0B-673EED097246",
+      "overrideName": "90792CC8-0670-4465-A6E2-564FC61650C1_stringValue",
+      "value": "Speed"
+    }
+  ],
+  "overrides": {
+    "90792CC8-0670-4465-A6E2-564FC61650C1": "Speed"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E417F5D-A7D0-4E5A-A746-A33B86637351",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7FB2AE3B-34F1-4475-9066-8C88F5858C60",
+  "verticalSpacing": 0
+}

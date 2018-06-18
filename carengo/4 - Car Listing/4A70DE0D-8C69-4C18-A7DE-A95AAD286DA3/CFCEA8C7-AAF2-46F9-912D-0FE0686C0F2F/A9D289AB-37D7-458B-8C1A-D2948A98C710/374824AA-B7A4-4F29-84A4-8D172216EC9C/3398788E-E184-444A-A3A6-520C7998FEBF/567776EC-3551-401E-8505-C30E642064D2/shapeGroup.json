@@ -1,0 +1,73 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "567776EC-3551-401E-8505-C30E642064D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60ACC5CB-E6B8-4578-B746-F57458CB22AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C2112F17-2229-4507-A94D-A96E91C09A26",
+    "height": 25.14972433237339,
+    "width": 12.93000030517578,
+    "x": 0.06999969482421875,
+    "y": 0.8502756676266472
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0EFC6590-3846-465A-BFEC-23F81CFCB929"
+    },
+    {
+      "class": "shapePath",
+      "id": "C3932B41-3259-407A-8457-07309445B6F6"
+    }
+  ],
+  "name": "Person icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F618CE81-C1A1-4610-AFE4-EDC3D34695B6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4232183770247228,
+          "green": 0.1019607843137255,
+          "red": 0.9764705882352941
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

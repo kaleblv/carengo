@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "do_objectID": "02702D7C-4520-446B-8287-57C89706B0D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -890,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "8C677CAB-1C26-4B54-B12D-32D164D23E87"
+    },
+    {
+      "class": "artboard",
+      "id": "4664A0F3-5F4F-42E4-B344-26D14155A687"
+    },
+    {
+      "class": "artboard",
+      "id": "4A70DE0D-8C69-4C18-A7DE-A95AAD286DA3"
+    }
+  ],
+  "name": "4 - Car Listing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -532,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "6FF1A71D-5988-4F7C-9CA6-A0E75042679D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "691E467C-7243-4555-A89A-380B189105C3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C5DE686-CB9F-4E94-A54C-E3C0D39C2369",
+    "height": 32,
+    "width": 50,
+    "x": 127,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B91B3D06-D8FD-4380-8837-4616A45ABB2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E45FB26B-008B-41B1-8A14-2B02E18F91C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "69F0BB88-1088-424C-AAD4-3475B783B207"
+    },
+    {
+      "class": "group",
+      "id": "A60E0AD9-69AB-412D-AC68-AB1624AE2A29"
+    }
+  ],
+  "name": "Visa",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AB6BB17C-CAB9-49AA-9E95-6BDB35BF9490",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "76C97E93-466A-4B6E-BBB3-2EEA1EACB536",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 5,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "do_objectID": "2025A707-597F-49D4-B395-6B2241498F3E",
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
