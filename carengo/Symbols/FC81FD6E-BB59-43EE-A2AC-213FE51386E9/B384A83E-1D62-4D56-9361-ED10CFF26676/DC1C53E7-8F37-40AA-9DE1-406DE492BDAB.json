@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGc3RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CT1JVWWVmZ2hpamtsbW9VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfEClTaWduIHVwIHlvdXIgZW1haWwgZm9yIHRoZSBsYXN0ZXN0IGRlYWxzLtMREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAC4ATgBeAIFZOU0tlcm5fEBxNU1RleHRTdHlsZVZlcnRpY2FsQWxpZ25tZW50XxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGUjAAAAAAAAAAAQANIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMgAAAAAAAF8QD1JhbGV3YXktUmVndWxhctI4OTo7WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozo8PVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSODk/QF8QEE5TRm9udERlc2NyaXB0b3KiQT1fEBBOU0ZvbnREZXNjcmlwdG9y1wpDREVGR0hJSktLTU1OWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gBaAAIAUgBQjQD4AAAAAAAAQAtISClBRoIAV0jg5U1RXTlNBcnJheaJTPdI4OVZXXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjVlg9XxAQTlNQYXJhZ3JhcGhTdHlsZdMREgpaXx+kW1xdXoAYgBmAGoAbpGBhYmOAHIAdgB6AH4AgU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/hFnlAAAAAIz/wAAAAAAAAIz/hFwJgAAAAIz/hGe4AAAAA0jg5PG6iPD3SODlwcV8QEk5TQXR0cmlidXRlZFN0cmluZ6JyPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF1dlRyb290gAEACAARABoAIwAtADIANwBcAGIAaQByAHkAhgCIAIoAjAC4AL8AxwDSANgA2gDcAN4A4ADiAOgA6gDsAO4A8ADyAPQA+wEaATwBTwF8AYUBhwGMAakBqwGtAbQBtwG5AbsBvgHAAcIBxAHaAfAB+QILAhACGwIkAjoCPgJLAlQCWQJsAm8CggKRApwCqQK1AscC2QLlAucC6QLrAu0C9gL4Av0C/gMAAwUDDQMQAxUDLwMzA0YDTQNSA1QDVgNYA1oDXwNhA2MDZQNnA2kDbQNzA3gDfgOHA5ADmQOiA6cDqgOvA8QDxwPcA+4D8QP2AAAAAAAAAgEAAAAAAAAAdwAAAAAAAAAAAAAAAAAAA/g="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5340587496757507,
+            "green": 0.5344152450561523,
+            "red": 0.5339933633804321
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Regular",
+              "size": 18
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 30,
+            "minimumLineHeight": 30
+          }
+        },
+        "length": 41,
+        "location": 0
+      }
+    ],
+    "string": "Sign up your email for the lastest deals."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DC1C53E7-8F37-40AA-9DE1-406DE492BDAB",

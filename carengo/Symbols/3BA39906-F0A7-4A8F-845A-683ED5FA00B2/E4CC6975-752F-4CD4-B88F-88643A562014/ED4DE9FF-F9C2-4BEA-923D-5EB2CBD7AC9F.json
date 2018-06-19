@@ -1,10 +1,37 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiYtMTk6Ozw9QUVRUlNUVVZYWVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1hTZXJ2aWNlc9MREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgBmAGF8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtIKIyQlWk5TVGFiU3RvcHOACYAA0icoKSpaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloykrLF8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCi4vMF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgoyNTiiMzSADIANojY3gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABcUmFsZXdheS1Cb2xk0icoPj9fEBNOU011dGFibGVEaWN0aW9uYXJ5oz5ALFxOU0RpY3Rpb25hcnnSJyhCQ18QEE5TRm9udERlc2NyaXB0b3KiRCxfEBBOU0ZvbnREZXNjcmlwdG9y0xESCkZLHaRHSElKgBOAFIAVgBakTExMTIAXgBeAF4AXgBhTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP/AAAAAAAADSJyhAV6JALCMAAAAAAAAAANInKFpbXxASTlNBdHRyaWJ1dGVkU3RyaW5nolwsXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0V9gVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAI4AlQCdAKgArQCvALEAswC1ALoAvAC+AMAAwgDEANcA+QEmAS0BMgE9AT8BQQFGAVEBWgF0AXgBiwGUAZkBtgG4AboBwQHEAcYByAHLAc0BzwHRAecB/QIGAhMCGAIuAjICPwJEAlcCWgJtAnQCeQJ7An0CfwKBAoYCiAKKAowCjgKQApQCmgKfAqUCrgKzArYCvwLEAtkC3ALxAwMDBgMLAAAAAAAAAgEAAAAAAAAAYQAAAAAAAAAAAAAAAAAAAw0="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Bold",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 8,
+        "location": 0
+      }
+    ],
+    "string": "Services"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "ED4DE9FF-F9C2-4BEA-923D-5EB2CBD7AC9F",
@@ -51,18 +78,25 @@
       "_class": "textStyle",
       "do_objectID": "8CD9CB32-1F11-433A-921D-C6FE0E21DC1E",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxSYWxld2F5LUJvbGTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Raleway-Bold",
+            "size": 14
+          }
         },
         "kerning": 0,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFBVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA1VJG51bGzSCQoLDFYkY2xhc3NaTlNUYWJTdG9wc4ACgADSDg8QEVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjEBITXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEWF1Ryb290gAEIERojLTI3O0FGTVhaXGFsdY+Tpq/BxMkAAAAAAAABAQAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAyw=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

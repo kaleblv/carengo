@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CTVBTV2NkZWZnaGlqa21VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANZQ2FyIEJyYW5k0xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAF4AgVk5TS2Vybl8QHE1TVGV4dFN0eWxlVmVydGljYWxBbGlnbm1lbnRfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZSMAAAAAAAAAABAA0gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A0AAAAAAAAXxARTW9udHNlcnJhdC1NZWRpdW3SODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctZDREVGCkdISUpJTEpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAUI0A4AAAAAAAAgBSAFtISCk5PoIAV0jg5UVJXTlNBcnJheaJRPdI4OVRVXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjVFY9XxAQTlNQYXJhZ3JhcGhTdHlsZdMREgpYXR+kWVpbXIAYgBmAGoAbpF5fYGGAHIAdgB6AH4AgU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/BEREREREQIz/wAAAAAAAAIz/BEREREREQIz/BEREREREQ0jg5PGyiPD3SODlub18QEk5TQXR0cmlidXRlZFN0cmluZ6JwPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFzdFRyb290gAEACAARABoAIwAtADIANwBcAGIAaQByAHkAhgCIAIoAjACWAJ0ApQCwALYAuAC6ALwAvgDAAMYAyADKAMwAzgDQANIA2QD4ARoBLQFaAWMBZQFqAYcBiQGLAZIBlQGXAZkBnAGeAaABogG4Ac4B1wHrAfAB+wIEAhoCHgIrAjQCOQJMAk8CYgJvAnoChgKYAqUCtwK5ArsCxALGAsgCzQLOAtAC1QLdAuAC5QL/AwMDFgMdAyIDJAMmAygDKgMvAzEDMwM1AzcDOQM9A0MDSANOA1cDYANpA3IDdwN6A38DlAOXA6wDvgPBA8YAAAAAAAACAQAAAAAAAAB1AAAAAAAAAAAAAAAAAAADyA=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Medium",
+              "size": 20
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 9,
+        "location": 0
+      }
+    ],
+    "string": "Car Brand"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FA29FDD2-00D9-40D7-A9F0-504EA6ECE478",
@@ -22,9 +52,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "734CCD7F-FB30-4347-ACAD-3EE27EF51A44",
     "height": 24,
-    "width": 100,
+    "width": 103,
     "x": 390,
     "y": 50
   },
@@ -51,19 +80,28 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.1333333333333333,
           "green": 0.1333333333333333,
           "red": 0.1333333333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF8QEU1vbnRzZXJyYXQtTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOcA7AD3AQABFgEaAScBMAE1AUgBSwFeAXABcwF4AAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXo="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Montserrat-Medium",
+            "size": 20
+          }
         },
         "MSTextStyleVerticalAlignment": 0,
         "kerning": 0,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBEQExFaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0gACAAiNAOAAAAAAAAIACgATSFQ0WF1pOUy5vYmplY3RzoIAD0hkaGxxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohsdWE5TT2JqZWN00hkaHyBfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMfIR1fEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SQlVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBQAFsAZwB5AIYAjQCfAKEAowCsAK4AsAC1AMAAwQDDAMgA0wDcAOQA5wDwAPUBDwETASYBOAE7AUAAAAAAAAACAQAAAAAAAAAmAAAAAAAAAAAAAAAAAAABQg=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0

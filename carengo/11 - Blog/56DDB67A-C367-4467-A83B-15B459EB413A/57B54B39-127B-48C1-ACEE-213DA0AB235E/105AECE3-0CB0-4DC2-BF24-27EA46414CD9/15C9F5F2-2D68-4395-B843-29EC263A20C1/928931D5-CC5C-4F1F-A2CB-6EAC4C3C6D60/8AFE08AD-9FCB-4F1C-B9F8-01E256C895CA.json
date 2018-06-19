@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CTVBTV2NkZWZnaGlqa21VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANcSnVseSA4LCAyMDE10xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAF4AgVk5TS2Vybl8QHE1TVGV4dFN0eWxlVmVydGljYWxBbGlnbm1lbnRfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZSMAAAAAAAAAABAA0gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXxAQTW9udHNlcnJhdC1MaWdodNI4OTo7WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozo8PVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSODk/QF8QEE5TRm9udERlc2NyaXB0b3KiQT1fEBBOU0ZvbnREZXNjcmlwdG9y1kNERUYKR0hJSklMSlpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgBQjQDoAAAAAAACAFIAW0hIKTk+ggBXSODlRUldOU0FycmF5olE90jg5VFVfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNUVj1fEBBOU1BhcmFncmFwaFN0eWxl0xESClhdH6RZWltcgBiAGYAagBukXl9gYYAcgB2AHoAfgCBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+EWeUAAAAAjP/AAAAAAAAAjP+EXAmAAAAAjP+EZ7gAAAADSODk8bKI8PdI4OW5vXxASTlNBdHRyaWJ1dGVkU3RyaW5nonA9XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XN0VHJvb3SAAQAIABEAGgAjAC0AMgA3AFwAYgBpAHIAeQCGAIgAigCMAJkAoACoALMAuQC7AL0AvwDBAMMAyQDLAM0AzwDRANMA1QDcAPsBHQEwAV0BZgFoAW0BigGMAY4BlQGYAZoBnAGfAaEBowGlAbsB0QHaAe0B8gH9AgYCHAIgAi0CNgI7Ak4CUQJkAnECfAKIApoCpwK5ArsCvQLGAsgCygLPAtAC0gLXAt8C4gLnAwEDBQMYAx8DJAMmAygDKgMsAzEDMwM1AzcDOQM7Az8DRQNKA1ADWQNiA2sDdAN5A3wDgQOWA5kDrgPAA8MDyAAAAAAAAAIBAAAAAAAAAHUAAAAAAAAAAAAAAAAAAAPK"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5340587496757507,
+            "green": 0.5344152450561523,
+            "red": 0.5339933633804321
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Light",
+              "size": 14
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          }
+        },
+        "length": 12,
+        "location": 0
+      }
+    ],
+    "string": "July 8, 2015"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8AFE08AD-9FCB-4F1C-B9F8-01E256C895CA",

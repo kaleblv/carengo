@@ -1,10 +1,62 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGm5xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLQcIERIYIyQlJjIzNDU2Nzg5OkBETE1OT1BTV1tfaWprd3h5en2FhoeIi4+Tl1UkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAKoADgCxfECZFeGlzaXRuZyBDdXN0b21lcj8gQ2xpY2sgaGVyZSB0byBsb2dpbtITDBQXWk5TLm9iamVjdHOiFRaABIAcgCnTGRMMGh4iV05TLmtleXOjGxwdgAWABoAHox8gIYAIgBKAGoARXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGXTGRMMJywipCgpKiuACYAKgAuADKQtLi8wgA2ADoAPgBCAEVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/5/Ab3TBmMiM/8AAAAAAAACM/5/Ab3TBmMiM/5/Ab3TBmMtI7PD0+WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj0/WE5TT2JqZWN00gxBQkNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AZgBPTGRMMRUhLokZHgBSAFaJJSoAWgBeAGF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AmAAAAAAAAXxASTW9udHNlcnJhdC1SZWd1bGFy0js8UVJfEBNOU011dGFibGVEaWN0aW9uYXJ5o1E9P9I7PFRVXxAQTlNGb250RGVzY3JpcHRvcqJWP18QEE5TRm9udERlc2NyaXB0b3LSDFhZWlpOU1RhYlN0b3BzgBuAANI7PFxdXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjXF4/XxAQTlNQYXJhZ3JhcGhTdHlsZdMZEwxgZCKjYWIdgB2AHoAHo2VmZ4AfgCOAKIARXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMZEwxscSKkKCkqK4AJgAqAC4AMpHIudHWAIIAOgCGAIoARIz/vPz8/Pz8/Iz/bFgKIGMrfIz+6GhoaGhob0gxBQnyAGYAk0xkTDH6BS6J/gIAlgCaiSYOAFoAngBhfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZV8QEk1vbnRzZXJyYXQtUmVndWxhctIMWFlagBuAANI7PIyNXk5TTXV0YWJsZUFycmF5o4yOP1dOU0FycmF50pAMkZJXTlMuZGF0YUQTABMBgCvSOzyUlV1OU011dGFibGVEYXRho5SWP1ZOU0RhdGHSOzyYmV8QEk5TQXR0cmlidXRlZFN0cmluZ6KaP18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctGdnlRyb290gAEACAARABoAIwAtADIANwBnAG0AdgB/AJEAngClAKcAqQCrAK0A1gDbAOYA6QDrAO0A7wD2AP4BAgEEAQYBCAEMAQ4BEAESARQBQQFjAXYBfQGCAYQBhgGIAYoBjwGRAZMBlQGXAZkBnQGjAagBrgG3AcAByQHSAdcB4gHrAfgB+wIEAgkCJgIoAioCMQI0AjYCOAI7Aj0CPwJBAlcCbQJ2AosCkAKmAqoCrwLCAsUC2ALdAugC6gLsAvEDCwMPAyIDKQMtAy8DMQMzAzcDOQM7Az0DPwNsA44DlQOaA5wDngOgA6IDpwOpA6sDrQOvA7EDugPDA8wD0QPTA9UD3APfA+ED4wPmA+gD6gPsBAIEGAQtBDIENAQ2BDsESgROBFYEWwRjBGgEagRvBH0EgQSIBI0EogSlBLoEzATPBNQAAAAAAAACAQAAAAAAAACfAAAAAAAAAAAAAAAAAAAE1g=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.7480601616,
+            "green": 0.7480601616,
+            "red": 0.7480601616
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 19,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4232183770247228,
+            "green": 0.1019607843137255,
+            "red": 0.9764705882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 19,
+        "location": 19
+      }
+    ],
+    "string": "Exisitng Customer? Click here to login"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B64FD4DB-B5AA-4829-BDDE-7877D5A51AAD",
@@ -22,9 +74,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A3C18536-B8E5-4A47-A75E-5920326D1CBA",
     "height": 14,
-    "width": 205,
+    "width": 210,
     "x": 0,
     "y": 0
   },
@@ -51,17 +102,24 @@
       "_class": "textStyle",
       "do_objectID": "33421CDD-539B-425B-BA3A-D49EF9E7CA4D",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.7480601616,
           "green": 0.7480601616,
           "red": 0.7480601616
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJgAAAAAAAF8QEk1vbnRzZXJyYXQtUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Montserrat-Regular",
+            "size": 11
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFBVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA1VJG51bGzSCQoLDFYkY2xhc3NaTlNUYWJTdG9wc4ACgADSDg8QEVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjEBITXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEWF1Ryb290gAEIERojLTI3O0FGTVhaXGFsdY+Tpq/BxMkAAAAAAAABAQAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAyw=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

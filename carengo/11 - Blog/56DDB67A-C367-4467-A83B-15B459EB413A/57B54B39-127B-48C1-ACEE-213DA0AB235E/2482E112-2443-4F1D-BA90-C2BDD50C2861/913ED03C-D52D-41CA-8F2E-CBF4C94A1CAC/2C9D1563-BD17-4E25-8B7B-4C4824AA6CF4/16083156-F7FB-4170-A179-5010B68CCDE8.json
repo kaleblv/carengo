@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CTVBTV2NkZWZnaGlqa21VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfEBJVWCwgRG93bmxvYWQsIEZyZWXTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgAuAE4AXgCBWTlNLZXJuXxAcTVNUZXh0U3R5bGVWZXJ0aWNhbEFsaWdubWVudF8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlIwAAAAAAAAAAEADSCigpKl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgosLzKiLS6ADYAOojAxgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABfEBBNb250c2VycmF0LUxpZ2h00jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LWQ0RFRgpHSElKSUxKWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAFCNAOgAAAAAAAIAUgBbSEgpOT6CAFdI4OVFSV05TQXJyYXmiUT3SODlUVV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1RWPV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKWF0fpFlaW1yAGIAZgBqAG6ReX2BhgByAHYAegB+AIFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/4RZ5QAAAACM/8AAAAAAAACM/4RcCYAAAACM/4RnuAAAAANI4OTxsojw90jg5bm9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeicD1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRc3RUcm9vdIABAAgAEQAaACMALQAyADcAXABiAGkAcgB5AIYAiACKAIwAoQCoALAAuwDBAMMAxQDHAMkAywDRANMA1QDXANkA2wDdAOQBAwElATgBZQFuAXABdQGSAZQBlgGdAaABogGkAacBqQGrAa0BwwHZAeIB9QH6AgUCDgIkAigCNQI+AkMCVgJZAmwCeQKEApACogKvAsECwwLFAs4C0ALSAtcC2ALaAt8C5wLqAu8DCQMNAyADJwMsAy4DMAMyAzQDOQM7Az0DPwNBA0MDRwNNA1IDWANhA2oDcwN8A4EDhAOJA54DoQO2A8gDywPQAAAAAAAAAgEAAAAAAAAAdQAAAAAAAAAAAAAAAAAAA9I="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5340587496757507,
+            "green": 0.5344152450561523,
+            "red": 0.5339933633804321
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Light",
+              "size": 14
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 26,
+            "minimumLineHeight": 26
+          }
+        },
+        "length": 18,
+        "location": 0
+      }
+    ],
+    "string": "UX, Download, Free"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "16083156-F7FB-4170-A179-5010B68CCDE8",
@@ -22,9 +52,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CF7D5FA7-58B7-4382-92AB-AFB75F45C94E",
     "height": 26,
-    "width": 134,
+    "width": 136,
     "x": 27,
     "y": 0
   },

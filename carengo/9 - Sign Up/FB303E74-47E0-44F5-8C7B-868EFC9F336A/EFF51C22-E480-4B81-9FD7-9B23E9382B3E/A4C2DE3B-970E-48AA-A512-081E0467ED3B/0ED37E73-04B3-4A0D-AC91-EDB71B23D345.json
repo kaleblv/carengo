@@ -34,9 +34,6 @@
       "value": "NAME"
     }
   ],
-  "overrides": {
-    "D403DAB1-0944-42E9-86C5-7EA6019F0116": "NAME"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

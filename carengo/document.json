@@ -114,7 +114,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "E43FF92C-06D2-4B98-B9E9-E1EC2DE191FF",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -122,9 +126,9 @@
     ]
   },
   "meta": {
-    "appVersion": "49",
-    "build": 51002,
-    "version": 101
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
   },
   "pages": [
     "1 - Homepage",
@@ -140,5 +144,10 @@
     "11 - Blog",
     "12 - Corporate pages",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }

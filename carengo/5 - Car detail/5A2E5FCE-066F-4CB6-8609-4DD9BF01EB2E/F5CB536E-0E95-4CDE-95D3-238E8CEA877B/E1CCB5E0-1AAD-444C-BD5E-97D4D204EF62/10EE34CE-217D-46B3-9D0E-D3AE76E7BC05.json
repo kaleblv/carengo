@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGc3RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CT1JVWWVmZ2hpamtsbW9VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANZQ2FyIEJyYW5k0xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAF4AgVk5TS2Vybl8QHE1TVGV4dFN0eWxlVmVydGljYWxBbGlnbm1lbnRfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZSMAAAAAAAAAABAA0gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A0AAAAAAAAXxARTW9udHNlcnJhdC1NZWRpdW3SODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctcKQ0RFRkdISUpLS01NTlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAWgACAFIAUI0A4AAAAAAAAEALSEgpQUaCAFdI4OVNUV05TQXJyYXmiUz3SODlWV18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1ZYPV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKWl8fpFtcXV6AGIAZgBqAG6RgYWJjgByAHYAegB+AIFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/wRERERERECM/8AAAAAAAACM/wRERERERECM/wRERERERENI4OTxuojw90jg5cHFfEBJOU0F0dHJpYnV0ZWRTdHJpbmeicj1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRdXZUcm9vdIABAAgAEQAaACMALQAyADcAXABiAGkAcgB5AIYAiACKAIwAlgCdAKUAsAC2ALgAugC8AL4AwADGAMgAygDMAM4A0ADSANkA+AEaAS0BWgFjAWUBagGHAYkBiwGSAZUBlwGZAZwBngGgAaIBuAHOAdcB6wHwAfsCBAIaAh4CKwI0AjkCTAJPAmICcQJ8AokClQKnArkCxQLHAskCywLNAtYC2ALdAt4C4ALlAu0C8AL1Aw8DEwMmAy0DMgM0AzYDOAM6Az8DQQNDA0UDRwNJA00DUwNYA14DZwNwA3kDggOHA4oDjwOkA6cDvAPOA9ED1gAAAAAAAAIBAAAAAAAAAHcAAAAAAAAAAAAAAAAAAAPY"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Medium",
+              "size": 20
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 9,
+        "location": 0
+      }
+    ],
+    "string": "Car Brand"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "10EE34CE-217D-46B3-9D0E-D3AE76E7BC05",
@@ -22,10 +52,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EC784019-E607-4CA4-AA21-C78CE7B10ABD",
-    "height": 24,
-    "width": 100,
-    "x": 130.5,
+    "height": 48,
+    "width": 103,
+    "x": 129,
     "y": 251
   },
   "glyphBounds": "{{0, 4}, {98, 16}}",

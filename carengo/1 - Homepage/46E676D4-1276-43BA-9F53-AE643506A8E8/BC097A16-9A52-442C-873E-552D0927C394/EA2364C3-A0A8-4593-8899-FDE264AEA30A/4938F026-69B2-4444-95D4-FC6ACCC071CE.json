@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CTVBTV2NkZWZnaGlqa21VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfEBFDb250YWN0IHRoZSBIaXJlctMREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAC4ATgBeAIFZOU0tlcm5fEBxNU1RleHRTdHlsZVZlcnRpY2FsQWxpZ25tZW50XxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGUjAAAAAAAAAAAQANIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF8QEE1vbnRzZXJyYXQtTGlnaHTSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctZDREVGCkdISUpJTEpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAUI0BCAAAAAAAAgBSAFtISCk5PoIAV0jg5UVJXTlNBcnJheaJRPdI4OVRVXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjVFY9XxAQTlNQYXJhZ3JhcGhTdHlsZdMREgpYXR+kWVpbXIAYgBmAGoAbpF5fYGGAHIAdgB6AH4AgU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/BEREREREQIz/wAAAAAAAAIz/BEREREREQIz/BEREREREQ0jg5PGyiPD3SODlub18QEk5TQXR0cmlidXRlZFN0cmluZ6JwPV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFzdFRyb290gAEACAARABoAIwAtADIANwBcAGIAaQByAHkAhgCIAIoAjACgAKcArwC6AMAAwgDEAMYAyADKANAA0gDUANYA2ADaANwA4wECASQBNwFkAW0BbwF0AZEBkwGVAZwBnwGhAaMBpgGoAaoBrAHCAdgB4QH0AfkCBAINAiMCJwI0Aj0CQgJVAlgCawJ4AoMCjwKhAq4CwALCAsQCzQLPAtEC1gLXAtkC3gLmAukC7gMIAwwDHwMmAysDLQMvAzEDMwM4AzoDPAM+A0ADQgNGA0wDUQNXA2ADaQNyA3sDgAODA4gDnQOgA7UDxwPKA88AAAAAAAACAQAAAAAAAAB1AAAAAAAAAAAAAAAAAAAD0Q=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Light",
+              "size": 24
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
+          }
+        },
+        "length": 17,
+        "location": 0
+      }
+    ],
+    "string": "Contact the Hirer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4938F026-69B2-4444-95D4-FC6ACCC071CE",
@@ -22,9 +52,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "89B33A6D-1969-4392-9274-01408DE9EFA7",
     "height": 36,
-    "width": 203,
+    "width": 207,
     "x": 56.5,
     "y": 132
   },

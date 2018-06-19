@@ -1,10 +1,36 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGXl9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQVlpVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEB1QbGVhc2UgZmlsbCB0aGUgZW1wdHkgc3BhY2VzLtMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBmAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+8/Pz8/Pz8jP/AAAAAAAAAjP9sWAogYyt8jP7oaGhoaGhvSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGIAS0xESCj5BRKI/QIATgBSiQkOAFYAWgBdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJgAAAAAAAF8QEk1vbnRzZXJyYXQtUmVndWxhctI0NUpLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKNjjSNDVNTl8QEE5TRm9udERlc2NyaXB0b3KiTzhfEBBOU0ZvbnREZXNjcmlwdG9y01EKUlNUVVpOU1RhYlN0b3BzW05TQWxpZ25tZW50gACAGhAB0jQ1V1hfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNXWThfEBBOU1BhcmFncmFwaFN0eWxl0jQ1W1xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXThfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYGFUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYApgCtALUAwADEAMYAyADKAM4A0ADSANQA1gEDASUBOAE/AUQBRgFIAUoBTAFRAVMBVQFXAVkBWwFfAWUBagFwAXkBggGLAZQBmQGkAa0BugG9AcYBywHoAeoB7AHzAfYB+AH6Af0B/wIBAgMCGQIvAjgCTQJSAmgCbAJxAoQChwKaAqECrAK4AroCvAK+AsMC3QLhAvQC+QMOAxEDJgM4AzsDQAAAAAAAAAIBAAAAAAAAAGIAAAAAAAAAAAAAAAAAAANC"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4232183770247228,
+            "green": 0.1019607843137255,
+            "red": 0.9764705882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 1,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 29,
+        "location": 0
+      }
+    ],
+    "string": "Please fill the empty spaces."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "96AE24DD-F56F-4192-A84B-08AA413F81B8",
@@ -22,10 +48,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "97018833-8B6E-49AA-B3A1-FA8A14895952",
-    "height": 14,
-    "width": 152,
-    "x": 0,
+    "height": 28,
+    "width": 156,
+    "x": -4,
     "y": 0
   },
   "glyphBounds": "{{1, 2}, {151, 12}}",
@@ -51,17 +76,24 @@
       "_class": "textStyle",
       "do_objectID": "07B4FA19-C206-4F03-B021-FEE6B7EA1B6A",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.4232183770247228,
           "green": 0.1019607843137255,
           "red": 0.9764705882352941
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJgAAAAAAAF8QEk1vbnRzZXJyYXQtUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Montserrat-Regular",
+            "size": 11
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFhdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OWk5TVGFiU3RvcHNWJGNsYXNzW05TQWxpZ25tZW50gACAAhAB0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxIUFV8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGBlUcm9vdIABCBEaIy0yNztBSFNaZmhqbHF8hZ+jtr/R1NkAAAAAAAABAQAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA2w=="
+          "_class": "paragraphStyle",
+          "alignment": 1,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

@@ -40,10 +40,6 @@
       "value": "CHECK IN"
     }
   ],
-  "overrides": {
-    "333249B1-AEAC-459F-B66D-69C82672F5BB": "Choose Date",
-    "34DB0AC8-D59D-4BF9-95D6-5C2C7CEBA5D6": "CHECK IN"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,10 +1,62 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGm5xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLQcIERIYIyQlJjIzNDU2Nzg5OkBETE1OT1BTV1tfaWprd3h5en2FhoeIi4+Tl1UkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAKoADgCxfEChEbyBub3QgaGF2ZSBhbiBhY2NvdW50IHlldD8gU2lnbiBVcCBub3ch0hMMFBdaTlMub2JqZWN0c6IVFoAEgByAKdMZEwwaHiJXTlMua2V5c6MbHB2ABYAGgAejHyAhgAiAEoAagBFfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMZEwwnLCKkKCkqK4AJgAqAC4AMpC0uLzCADYAOgA+AEIARU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/n8BvdMGYyIz/wAAAAAAAAIz/n8BvdMGYyIz/n8BvdMGYy0js8PT5aJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiPT9YTlNPYmplY3TSDEFCQ18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBmAE9MZEwxFSEuiRkeAFIAVoklKgBaAF4AYXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCYAAAAAAABfEBJNb250c2VycmF0LVJlZ3VsYXLSOzxRUl8QE05TTXV0YWJsZURpY3Rpb25hcnmjUT0/0js8VFVfEBBOU0ZvbnREZXNjcmlwdG9yolY/XxAQTlNGb250RGVzY3JpcHRvctIMWFlaWk5TVGFiU3RvcHOAG4AA0js8XF1fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNcXj9fEBBOU1BhcmFncmFwaFN0eWxl0xkTDGBkIqNhYh2AHYAegAejZWZngB+AI4AogBFfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xkTDGxxIqQoKSorgAmACoALgAykci50dYAggA6AIYAigBEjP+8/Pz8/Pz8jP9sWAogYyt8jP7oaGhoaGhvSDEFCfIAZgCTTGRMMfoFLon+AgCWAJqJJg4AWgCeAGF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlXxASTW9udHNlcnJhdC1SZWd1bGFy0gxYWVqAG4AA0js8jI1eTlNNdXRhYmxlQXJyYXmjjI4/V05TQXJyYXnSkAyRkldOUy5kYXRhRBwADAGAK9I7PJSVXU5TTXV0YWJsZURhdGGjlJY/Vk5TRGF0YdI7PJiZXxASTlNBdHRyaWJ1dGVkU3RyaW5nopo/XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0Z2eVHJvb3SAAQAIABEAGgAjAC0AMgA3AGcAbQB2AH8AkQCeAKUApwCpAKsArQDYAN0A6ADrAO0A7wDxAPgBAAEEAQYBCAEKAQ4BEAESARQBFgFDAWUBeAF/AYQBhgGIAYoBjAGRAZMBlQGXAZkBmwGfAaUBqgGwAbkBwgHLAdQB2QHkAe0B+gH9AgYCCwIoAioCLAIzAjYCOAI6Aj0CPwJBAkMCWQJvAngCjQKSAqgCrAKxAsQCxwLaAt8C6gLsAu4C8wMNAxEDJAMrAy8DMQMzAzUDOQM7Az0DPwNBA24DkAOXA5wDngOgA6IDpAOpA6sDrQOvA7EDswO8A8UDzgPTA9UD1wPeA+ED4wPlA+gD6gPsA+4EBAQaBC8ENAQ2BDgEPQRMBFAEWARdBGUEagRsBHEEfwSDBIoEjwSkBKcEvATOBNEE1gAAAAAAAAIBAAAAAAAAAJ8AAAAAAAAAAAAAAAAAAATY"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.7480601616,
+            "green": 0.7480601616,
+            "red": 0.7480601616
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 28,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.4232183770247228,
+            "green": 0.1019607843137255,
+            "red": 0.9764705882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Regular",
+              "size": 11
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 12,
+        "location": 28
+      }
+    ],
+    "string": "Do not have an account yet? Sign Up now!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6AB26E17-4EE8-45DA-92F5-4FA64FBB4A1A",
@@ -22,9 +74,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "15277E59-1691-4AC3-8261-025676BD1703",
     "height": 14,
-    "width": 227,
+    "width": 234,
     "x": 0,
     "y": 0
   },
@@ -51,17 +102,24 @@
       "_class": "textStyle",
       "do_objectID": "462A2986-F1F4-4ACA-B087-4CCC00839935",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.7480601616,
           "green": 0.7480601616,
           "red": 0.7480601616
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJgAAAAAAAF8QEk1vbnRzZXJyYXQtUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Montserrat-Regular",
+            "size": 11
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFBVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA1VJG51bGzSCQoLDFYkY2xhc3NaTlNUYWJTdG9wc4ACgADSDg8QEVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjEBITXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEWF1Ryb290gAEIERojLTI3O0FGTVhaXGFsdY+Tpq/BxMkAAAAAAAABAQAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAyw=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

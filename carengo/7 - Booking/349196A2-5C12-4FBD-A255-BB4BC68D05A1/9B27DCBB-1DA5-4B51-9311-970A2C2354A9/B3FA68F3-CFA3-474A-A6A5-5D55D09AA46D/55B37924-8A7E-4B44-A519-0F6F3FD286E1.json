@@ -40,10 +40,6 @@
       "value": "John Doe"
     }
   ],
-  "overrides": {
-    "9A4448EC-BC8D-42BE-997C-E28E35AB23FB": "NAME ON CARD",
-    "A6387C02-87AC-4693-9D48-7545AD06D85C": "John Doe"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

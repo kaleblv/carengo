@@ -1,10 +1,97 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGxcZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMgcIERIZJicoKSoxODxERUZHSExQXF1eX2BhYmNkZmdzdn5/i4yNjpqdpaays7S1ub3BVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAvgAOAMV1MaWdodApSZWd1bGFy0hMMFBhaTlMub2JqZWN0c6MVFheABIAegCaALtMaEwwbICVXTlMua2V5c6QcHR4fgAWABoAHgAikISIjJIAJgAuAE4AdgBxfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7UKwwsLS4vMDBaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodIAAgAojQEUAAAAAAADSMjM0NVokY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNDY3XxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIMOTo7XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xoTDD1AQ6I+P4ANgA6iQUKAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQAAAAAAAAF1SYWxld2F5LUxpZ2h00jIzSUpfEBNOU011dGFibGVEaWN0aW9uYXJ5o0lLN1xOU0RpY3Rpb25hcnnSMjNNTl8QEE5TRm9udERlc2NyaXB0b3KiTzdfEBBOU0ZvbnREZXNjcmlwdG9y0xoTDFFWJaRSU1RVgBSAFYAWgBekV1hZWoAYgBmAGoAbgBxTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8ERERERERAjP/AAAAAAAAAjP8ERERERERAjP8ERERERERDSMjNLZaJLNyMAAAAAAAAAANMaEwxobSWkHB0eH4AFgAaAB4AIpCFvcCSACYAfgCKAHYAc0gw5OnWAEoAg0xoTDHd6Q6I+P4ANgA6iQXyAD4AhgBFeUmFsZXdheS1NZWRpdW3TGhMMgIUlpFJTVFWAFIAVgBaAF6SGWIiJgCOAGYAkgCWAHCM/wRERERERECM/wRERERERECM/wRERERERENMaEwyPlCWkHB0eH4AFgAaAB4AIpCGWlySACYAngCqAHYAc0gw5OpyAEoAo0xoTDJ6hQ6I+P4ANgA6iQaOAD4ApgBFfEA9SYWxld2F5LVJlZ3VsYXLTGhMMp6wlpFJTVFWAFIAVgBaAF6StWK+wgCuAGYAsgC2AHCM/wRERERERECM/wRERERERECM/wRERERERENIyM7a3Xk5TTXV0YWJsZUFycmF5o7a4N1dOU0FycmF50roMu7xXTlMuZGF0YUYFAAEBBwKAMNIyM76/XU5TTXV0YWJsZURhdGGjvsA3Vk5TRGF0YdIyM8LDXxASTlNBdHRyaWJ1dGVkU3RyaW5nosQ3XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0cfIVHJvb3SAAQAIABEAGgAjAC0AMgA3AGwAcgB7AIQAlgCjAKoArACuALAAsgDAAMUA0ADUANYA2ADaANwA4wDrAPAA8gD0APYA+AD9AP8BAQEDAQUBBwEaATwBaQFwAXkBhAGWAagBqgGsAbUBugHFAc4B6AHsAf8CCAINAioCLAIuAjUCOAI6AjwCPwJBAkMCRQJbAnECegKIAo0CowKnArQCuQLMAs8C4gLpAu4C8ALyAvQC9gL7Av0C/wMBAwMDBQMJAw8DFAMaAyMDLAM1Az4DQwNGA08DVgNbA10DXwNhA2MDaANqA2wDbgNwA3IDdwN5A3sDggOFA4cDiQOMA44DkAOSA6EDqAOtA68DsQOzA7UDugO8A74DwAPCA8QDzQPWA98D5gPrA+0D7wPxA/MD+AP6A/wD/gQABAIEBwQJBAsEEgQVBBcEGQQcBB4EIAQiBDQEOwRABEIERARGBEgETQRPBFEEUwRVBFcEYARpBHIEdwSGBIoEkgSXBJ8EpgSoBK0EuwS/BMYEywTgBOME+AUKBQ0FEgAAAAAAAAIBAAAAAAAAAMkAAAAAAAAAAAAAAAAAAAUU"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Light",
+              "size": 32
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 42,
+            "minimumLineHeight": 42
+          }
+        },
+        "length": 5,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Medium",
+              "size": 32
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 42,
+            "minimumLineHeight": 42
+          }
+        },
+        "length": 1,
+        "location": 5
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Regular",
+              "size": 32
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 42,
+            "minimumLineHeight": 42
+          }
+        },
+        "length": 7,
+        "location": 6
+      }
+    ],
+    "string": "Light\nRegular"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1D9E17A2-1188-4664-A154-2A70717FAFA0",
@@ -51,18 +138,27 @@
       "_class": "textStyle",
       "do_objectID": "5C684AA9-A5D7-4A17-9F45-F9E086C5A0D1",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.1333333333333333,
           "green": 0.1333333333333333,
           "red": 0.1333333333333333
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQAAAAAAAAF1SYWxld2F5LUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Raleway-Light",
+            "size": 32
+          }
         },
         "kerning": 0,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBBVJG51bGzUCQoLDA0ODw9aTlNUYWJTdG9wc1YkY2xhc3NfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIACI0BFAAAAAAAA0hESExRaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloxMVFl8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGRpUcm9vdIABCBEaIy0yNztBSlVcboCChI2SnabAxNfg8vX6AAAAAAAAAQEAAAAAAAAAGwAAAAAAAAAAAAAAAAAAAPw="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 42,
+          "minimumLineHeight": 42
         }
       },
       "verticalAlignment": 0

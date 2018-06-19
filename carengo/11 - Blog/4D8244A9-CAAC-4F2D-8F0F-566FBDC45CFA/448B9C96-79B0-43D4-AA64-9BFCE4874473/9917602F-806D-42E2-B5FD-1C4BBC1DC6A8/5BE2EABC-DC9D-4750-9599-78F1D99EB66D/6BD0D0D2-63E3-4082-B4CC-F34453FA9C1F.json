@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CTVBTV2NkZWZnaGlqa21VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANdRWxlY3RyaWMgQ2Fyc9MREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAC4ATgBeAIFZOU0tlcm5fEBxNU1RleHRTdHlsZVZlcnRpY2FsQWxpZ25tZW50XxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGUjAAAAAAAAAAAQANIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QEU1vbnRzZXJyYXQtTWVkaXVt0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LWQ0RFRgpHSElKSUxKWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAFCNAOAAAAAAAAIAUgBbSEgpOT6CAFdI4OVFSV05TQXJyYXmiUT3SODlUVV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1RWPV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKWF0fpFlaW1yAGIAZgBqAG6ReX2BhgByAHYAegB+AIFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/wRERERERECM/8AAAAAAAACM/wRERERERECM/wRERERERENI4OTxsojw90jg5bm9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeicD1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRc3RUcm9vdIABAAgAEQAaACMALQAyADcAXABiAGkAcgB5AIYAiACKAIwAmgChAKkAtAC6ALwAvgDAAMIAxADKAMwAzgDQANIA1ADWAN0A/AEeATEBXgFnAWkBbgGLAY0BjwGWAZkBmwGdAaABogGkAaYBvAHSAdsB7wH0Af8CCAIeAiICLwI4Aj0CUAJTAmYCcwJ+AooCnAKpArsCvQK/AsgCygLMAtEC0gLUAtkC4QLkAukDAwMHAxoDIQMmAygDKgMsAy4DMwM1AzcDOQM7Az0DQQNHA0wDUgNbA2QDbQN2A3sDfgODA5gDmwOwA8IDxQPKAAAAAAAAAgEAAAAAAAAAdQAAAAAAAAAAAAAAAAAAA8w="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Medium",
+              "size": 16
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 13,
+        "location": 0
+      }
+    ],
+    "string": "Electric Cars"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6BD0D0D2-63E3-4082-B4CC-F34453FA9C1F",

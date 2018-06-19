@@ -36,9 +36,6 @@
       "value": "United States Dollar"
     }
   ],
-  "overrides": {
-    "8BB77C8A-43CA-4386-A012-98D42C6C14EA": "United States Dollar"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

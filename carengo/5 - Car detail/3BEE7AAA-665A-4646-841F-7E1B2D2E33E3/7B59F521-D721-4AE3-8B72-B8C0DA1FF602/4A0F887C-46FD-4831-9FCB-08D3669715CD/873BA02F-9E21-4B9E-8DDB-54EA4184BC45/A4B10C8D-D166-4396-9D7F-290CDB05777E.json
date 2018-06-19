@@ -40,10 +40,6 @@
       "value": "Choose Date"
     }
   ],
-  "overrides": {
-    "78084BBE-B753-49C3-8A8A-83FBC3844DFE": "CHECK OUT",
-    "FB255D44-3BDF-4F34-8AE3-F188A1E219AD": "Choose Date"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

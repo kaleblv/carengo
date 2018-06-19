@@ -40,10 +40,6 @@
       "value": "john@doe.com"
     }
   ],
-  "overrides": {
-    "239885F9-8EBE-406C-8F8F-180357AFE987": "john@doe.com",
-    "D403DAB1-0944-42E9-86C5-7EA6019F0116": "CONFIRM EMAIL"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

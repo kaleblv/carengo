@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcnNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CTlFUWGRlZmdoaWprbG5VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANdV2VkZGluZyBDbGlwc9MREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAC4ATgBeAIFZOU0tlcm5fEBxNU1RleHRTdHlsZVZlcnRpY2FsQWxpZ25tZW50XxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGUjAAAAAAAAAAAQANIKKCkqXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEoAM0xESCiwvMqItLoANgA6iMDGAD4AQgBFfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQAAAAAAAAF8QEU1vbnRzZXJyYXQtTWVkaXVt0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LXCkNERUZHSElKS0s1NU1aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSAFoAAgBSAFBAC0hIKT1CggBXSODlSU1dOU0FycmF5olI90jg5VVZfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNVVz1fEBBOU1BhcmFncmFwaFN0eWxl0xESClleH6RaW1xdgBiAGYAagBukX2BhYoAcgB2AHoAfgCBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8ERERERERAjP/AAAAAAAAAjP8ERERERERAjP8ERERERERDSODk8baI8PdI4OW9wXxASTlNBdHRyaWJ1dGVkU3RyaW5nonE9XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XR1VHJvb3SAAQAIABEAGgAjAC0AMgA3AFwAYgBpAHIAeQCGAIgAigCMAJoAoQCpALQAugC8AL4AwADCAMQAygDMAM4A0ADSANQA1gDdAPwBHgExAV4BZwFpAW4BiwGNAY8BlgGZAZsBnQGgAaIBpAGmAbwB0gHbAe8B9AH/AggCHgIiAi8COAI9AlACUwJmAnUCgAKNApkCqwK9AskCywLNAs8C0QLTAtgC2QLbAuAC6ALrAvADCgMOAyEDKAMtAy8DMQMzAzUDOgM8Az4DQANCA0QDSANOA1MDWQNiA2sDdAN9A4IDhQOKA58DogO3A8kDzAPRAAAAAAAAAgEAAAAAAAAAdgAAAAAAAAAAAAAAAAAAA9M="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Medium",
+              "size": 32
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
+          }
+        },
+        "length": 13,
+        "location": 0
+      }
+    ],
+    "string": "Wedding Clips"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "569691F8-AC90-4F11-ADAF-ECD0AE092F2D",
@@ -22,10 +52,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B8BDA669-CF40-460F-8638-DDABAFC732F4",
-    "height": 32,
-    "width": 235,
-    "x": 306.5,
+    "height": 64,
+    "width": 240,
+    "x": 304,
     "y": 32
   },
   "glyphBounds": "{{0, 2}, {234, 32}}",

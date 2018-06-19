@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CTE9SVmJjZGVmZ2hpamxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfEBJXZWxjb21lIHRvIEFyZW50YS7TERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgAuAE4AXgCBWTlNLZXJuXxAcTVNUZXh0U3R5bGVWZXJ0aWNhbEFsaWdubWVudF8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlIwAAAAAAAAAAEADSCigpKl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgosLzKiLS6ADYAOojAxgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDwAAAAAAABfEBFNb250c2VycmF0LU1lZGl1bdI4OTo7WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozo8PVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSODk/QF8QEE5TRm9udERlc2NyaXB0b3KiQT1fEBBOU0ZvbnREZXNjcmlwdG9y1kNERUYKR0hJNUlLNVpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgBSAFIAW0hIKTU6ggBXSODlQUVdOU0FycmF5olA90jg5U1RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNTVT1fEBBOU1BhcmFncmFwaFN0eWxl0xESCldcH6RYWVpbgBiAGYAagBukXV5fYIAcgB2AHoAfgCBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8ERERERERAjP/AAAAAAAAAjP8ERERERERAjP8ERERERERDSODk8a6I8PdI4OW1uXxASTlNBdHRyaWJ1dGVkU3RyaW5nom89XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XJzVHJvb3SAAQAIABEAGgAjAC0AMgA3AFwAYgBpAHIAeQCGAIgAigCMAKEAqACwALsAwQDDAMUAxwDJAMsA0QDTANUA1wDZANsA3QDkAQMBJQE4AWUBbgFwAXUBkgGUAZYBnQGgAaIBpAGnAakBqwGtAcMB2QHiAfYB+wIGAg8CJQIpAjYCPwJEAlcCWgJtAnoChQKRAqMCsALCAsQCxgLIAsoCzwLQAtIC1wLfAuIC5wMBAwUDGAMfAyQDJgMoAyoDLAMxAzMDNQM3AzkDOwM/A0UDSgNQA1kDYgNrA3QDeQN8A4EDlgOZA64DwAPDA8gAAAAAAAACAQAAAAAAAAB0AAAAAAAAAAAAAAAAAAADyg=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Montserrat-Medium",
+              "size": 28
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
+          }
+        },
+        "length": 18,
+        "location": 0
+      }
+    ],
+    "string": "Welcome to Arenta."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EA16F441-8F19-45AD-BD36-ED50656D366B",
@@ -22,9 +52,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "96941C75-B6B9-448F-9F35-36027D963F19",
     "height": 28,
-    "width": 280,
+    "width": 285,
     "x": 390,
     "y": 367
   },

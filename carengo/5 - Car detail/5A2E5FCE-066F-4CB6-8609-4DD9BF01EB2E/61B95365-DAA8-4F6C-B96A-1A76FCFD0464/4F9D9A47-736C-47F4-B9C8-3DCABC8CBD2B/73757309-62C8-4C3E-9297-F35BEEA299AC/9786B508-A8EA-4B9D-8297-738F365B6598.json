@@ -34,9 +34,6 @@
       "value": "DROP OFF"
     }
   ],
-  "overrides": {
-    "78084BBE-B753-49C3-8A8A-83FBC3844DFE": "DROP OFF"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

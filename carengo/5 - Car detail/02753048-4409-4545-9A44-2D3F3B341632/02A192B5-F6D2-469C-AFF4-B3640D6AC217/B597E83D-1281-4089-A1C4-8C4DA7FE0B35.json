@@ -1,10 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAgISIjJCUmJyszNDU2Nz5CTVBTV2NkZWZnaGlqa21VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfEOhMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LCBzZWQgZG8gZWl1c21vZCB0ZW1wb3IgaW5jaWRpZHVudCB1dCBsYWJvcmUgZXQgZG9sb3JlIG1hZ25hIGFsaXF1YS4KClV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLCBxdWlzIG5vc3RydWQgZXhlcmNpdGF0aW9uIHVsbGFtY28gbGFib3JpcyBuaXNpIHV0IGFsaXF1aXAgZXggZWEgY29tbW9kbyBjb25zZXF1YXQu0xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAF4AgVk5TS2Vybl8QHE1TVGV4dFN0eWxlVmVydGljYWxBbGlnbm1lbnRfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZSMAAAAAAAAAABAA0gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXxAPUmFsZXdheS1SZWd1bGFy0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LWQ0RFRgpHSElKSUxKWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAFCNAPAAAAAAAAIAUgBbSEgpOT6CAFdI4OVFSV05TQXJyYXmiUT3SODlUVV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1RWPV8QEE5TUGFyYWdyYXBoU3R5bGXTERIKWF0fpFlaW1yAGIAZgBqAG6ReX2BhgByAHYAegB+AIFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/4RZ5QAAAACM/8AAAAAAAACM/4RcCYAAAACM/4RnuAAAAANI4OTxsojw90jg5bm9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeicD1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRc3RUcm9vdIABAAgAEQAaACMALQAyADcAXABiAGkAcgB5AIYAiACKAIwBdwF+AYYBkQGXAZkBmwGdAZ8BoQGnAakBqwGtAa8BsQGzAboB2QH7Ag4COwJEAkYCSwJoAmoCbAJzAnYCeAJ6An0CfwKBAoMCmQKvArgCygLPAtoC4wL5Av0DCgMTAxgDKwMuA0EDTgNZA2UDdwOEA5YDmAOaA6MDpQOnA6wDrQOvA7QDvAO/A8QD3gPiA/UD/AQBBAMEBQQHBAkEDgQQBBIEFAQWBBgEHAQiBCcELQQ2BD8ESARRBFYEWQReBHMEdgSLBJ0EoASlAAAAAAAAAgEAAAAAAAAAdQAAAAAAAAAAAAAAAAAABKc="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.5340587496757507,
+            "green": 0.5344152450561523,
+            "red": 0.5339933633804321
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Regular",
+              "size": 16
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
+          }
+        },
+        "length": 232,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B597E83D-1281-4089-A1C4-8C4DA7FE0B35",

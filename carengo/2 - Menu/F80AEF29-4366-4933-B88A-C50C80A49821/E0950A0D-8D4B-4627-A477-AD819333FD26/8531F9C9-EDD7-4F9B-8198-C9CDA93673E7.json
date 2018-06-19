@@ -1,10 +1,70 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGrK1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLAcIERIYJygpKissLS4yOjs8PT5FSVZZXGBsbW5vcHFzgYKDho6PkJGdoKSoVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoApgAOAK18QIkxpdmUgeW91ciBzdG9yeSwgRW5qb3kgeW91ciBkcml2ZS7SEwwUF1pOUy5vYmplY3RzohUWgASAH4Ao0xkTDBogJldOUy5rZXlzpRscHR4fgAWABoAHgAiACaUhIiMkJYAKgAuADIAUgBiAHlZOU0tlcm5fEBxNU1RleHRTdHlsZVZlcnRpY2FsQWxpZ25tZW50XxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGUjAAAAAAAAAAAQANIMLzAxXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xkTDDM2OaI0NYAOgA+iNziAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNASAAAAAAAAF1SYWxld2F5LUxpZ2h00j9AQUJaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjQUNEXE5TRGljdGlvbmFyeVhOU09iamVjdNI/QEZHXxAQTlNGb250RGVzY3JpcHRvcqJIRF8QEE5TRm9udERlc2NyaXB0b3LXDEpLTE1OT1BRUlJUVFVaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSAF4AAgBWAFSNATQAAAAAAABAC0hMMV1iggBbSP0BaW1dOU0FycmF5olpE0j9AXV5fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNdX0RfEBBOU1BhcmFncmFwaFN0eWxl0xkTDGFmJqRiY2RlgBmAGoAbgBykZ2dnZ4AdgB2AHYAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP/AAAAAAAADSP0BDcqJDRNMZEwx0eialGxx3HnmABYAGgCCACIAhpSEifSR/gAqAC4AigBSAJ4AeXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZdIMLzCFgBOAI9MZEwyHijmiiImAJIAlojeMgBCAJoASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGVcUmFsZXdheS1Cb2xk0xkTDJKXJqRiY2RlgBmAGoAbgBykZ2dnZ4AdgB2AHYAdgB7SP0Cen15OU011dGFibGVBcnJheaOeWkTSoQyio1dOUy5kYXRhRBEAEQGAKtI/QKWmXU5TTXV0YWJsZURhdGGjpadEVk5TRGF0YdI/QKmqXxASTlNBdHRyaWJ1dGVkU3RyaW5noqtEXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0a6vVHJvb3SAAQAIABEAGgAjAC0AMgA3AGYAbAB1AH4AkACdAKQApgCoAKoArADRANYA4QDkAOYA6ADqAPEA+QD/AQEBAwEFAQcBCQEPAREBEwEVARcBGQEbASIBQQFjAXYBowGsAa4BswHQAdIB1AHbAd4B4AHiAeUB5wHpAesCAQIXAiACLgIzAj4CRwJdAmECbgJ3AnwCjwKSAqUCtAK/AswC2ALqAvwDCAMKAwwDDgMQAxkDGwMgAyEDIwMoAzADMwM4A1IDVgNpA3ADdQN3A3kDewN9A4IDhAOGA4gDigOMA5ADlgObA6EDqgOvA7IDuQO/A8EDwwPFA8cDyQPPA9ED0wPVA9cD2QPbA/0EKgQvBDEEMwQ6BD0EPwRBBEQERgRIBEoEYAR2BIMEigSPBJEEkwSVBJcEnASeBKAEogSkBKYEqwS6BL4EwwTLBNAE0gTXBOUE6QTwBPUFCgUNBSIFNAU3BTwAAAAAAAACAQAAAAAAAACwAAAAAAAAAAAAAAAAAAAFPg=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Light",
+              "size": 48
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 58,
+            "minimumLineHeight": 58
+          }
+        },
+        "length": 17,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Raleway-Bold",
+              "size": 48
+            }
+          },
+          "MSTextStyleVerticalAlignment": 0,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 58,
+            "minimumLineHeight": 58
+          }
+        },
+        "length": 17,
+        "location": 17
+      }
+    ],
+    "string": "Live your story, Enjoy your drive."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8531F9C9-EDD7-4F9B-8198-C9CDA93673E7",
@@ -51,19 +111,28 @@
       "_class": "textStyle",
       "do_objectID": "432DAC72-6B87-48F2-8E74-20CA1FBC6C23",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 1,
           "green": 1,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNASAAAAAAAAF1SYWxld2F5LUxpZ2h00hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Raleway-Light",
+            "size": 48
+          }
         },
         "MSTextStyleVerticalAlignment": 0,
         "kerning": 0,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBYaIFUkbnVsbNcJCgsMDQ4PEBESEhQUFVYkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSABIAAgAKAAiNATQAAAAAAABAC0hcJGBlaTlMub2JqZWN0c6CAA9IbHB0eWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIdH1hOU09iamVjdNIbHCEiXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjISMfXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctEmJ1Ryb290gAEACAARABoAIwAtADIANwA9AEMAUgBZAGQAcQB9AI8AoQCtAK8AsQCzALUAvgDAAMUA0ADRANMA2ADjAOwA9AD3AQABBQEfASMBNgFIAUsBUAAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAAFS"
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 58,
+          "minimumLineHeight": 58
         }
       },
       "verticalAlignment": 0
