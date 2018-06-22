@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E91D5913-05DC-4B57-AEDE-9EA1C2D01A76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD0A3000-0E2A-4786-B505-EA7AA31179DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55D0BA6D-29E3-4D45-839B-0B9737184F7F",
+    "height": 267,
+    "width": 973,
+    "x": 32,
+    "y": 1380
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Car item map Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B87A5821-BFF2-463A-A201-3D9AB01EA55C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BEF74E4E-75AD-438C-8106-FE0215EC0EC8",
+  "verticalSpacing": 0
+}

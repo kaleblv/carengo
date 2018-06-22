@@ -1,0 +1,71 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "B1A13416-0F13-48D8-9CF7-28527735A357",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE39A8A8-5E98-45A4-B995-49F141F524F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B7C44DD0-2820-4382-B6D5-B8BA2D37DF47",
+    "height": 483,
+    "width": 725,
+    "x": -20,
+    "y": -7
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/0d317fc46c1ea615fc3c2a50f20e4ca46a4d0931.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "banner",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "027EFF5D-F2EE-473E-9CAF-1CF1D7D438B5",
+    "endDecorationType": 0,
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 30,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 11,
+        "spread": 5
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

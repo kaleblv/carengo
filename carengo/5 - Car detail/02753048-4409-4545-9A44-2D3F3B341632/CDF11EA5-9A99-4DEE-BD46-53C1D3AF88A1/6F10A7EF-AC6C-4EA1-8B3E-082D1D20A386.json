@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6F10A7EF-AC6C-4EA1-8B3E-082D1D20A386",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "960E3423-FCDC-42F5-9389-466B98EF12E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BCF1ED5-FFD4-4192-992C-8955AEF0CFD9",
+    "height": 431,
+    "width": 360,
+    "x": 780,
+    "y": 66
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Car item grid Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "516E9387-CBB0-45B0-8E94-A6436AFC2A36",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1BB62AC7-E882-46EF-84A3-51B912207352",
+  "verticalSpacing": 0
+}

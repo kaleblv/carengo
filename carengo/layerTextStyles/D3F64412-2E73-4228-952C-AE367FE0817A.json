@@ -21,7 +21,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Medium",
+            "name": "Aileron-Regular",
             "size": 20
           }
         },
@@ -29,7 +29,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 24,
           "minimumLineHeight": 24

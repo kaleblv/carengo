@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "F1EE7954-F665-4448-AB9C-3102A4CCDE58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21621E29-2941-4A19-8B24-775F7A2E2069",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BE2AF6E-FE9A-41B4-8EFF-56F266B7168D",
+    "height": 50,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "834FD4F0-48CA-4F50-B02E-13B88996A758"
+    },
+    {
+      "class": "text",
+      "id": "4DED9D37-F455-4E24-BEA4-96259DE9EABA"
+    }
+  ],
+  "name": "Filled Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22EA35F9-990C-4B50-AC8D-DF1679680F3C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

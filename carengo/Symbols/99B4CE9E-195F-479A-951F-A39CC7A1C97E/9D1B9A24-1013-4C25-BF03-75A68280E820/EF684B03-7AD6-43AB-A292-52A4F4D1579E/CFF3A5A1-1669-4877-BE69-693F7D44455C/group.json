@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "CFF3A5A1-1669-4877-BE69-693F7D44455C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DAE5EE6-368A-4286-965E-1F2862C4CF2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "093CDFF9-46D9-4B5F-8417-BE7890ED1BE4",
+    "height": 22,
+    "width": 20,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "360B2133-11A6-469A-94BD-10169830EF06"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8768AB8-C154-4DAE-85D3-68383F18C86A"
+    }
+  ],
+  "name": "Gas Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1CE29B3-B083-446A-8F47-0F393A995BBA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

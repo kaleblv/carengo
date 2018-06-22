@@ -58,6 +58,76 @@
         "blue": 0,
         "green": 0,
         "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4627450980392157,
+        "green": 0.4627450980392157,
+        "red": 0.4627450980392157
       }
     ],
     "gradients": [
@@ -143,11 +213,16 @@
     "10 - Rent your car",
     "11 - Blog",
     "12 - Corporate pages",
+    "13 - Logo",
     "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lalomrtnz.sketch.chain": {
+      "layer-chains": [
+      ]
     }
   }
 }

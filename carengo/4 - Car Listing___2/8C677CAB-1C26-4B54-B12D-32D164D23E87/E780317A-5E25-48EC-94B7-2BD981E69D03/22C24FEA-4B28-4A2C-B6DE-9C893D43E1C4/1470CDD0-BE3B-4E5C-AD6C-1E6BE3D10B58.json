@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1470CDD0-BE3B-4E5C-AD6C-1E6BE3D10B58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3D169D8-0430-46FC-8292-9A3680993227",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F591795-B69D-4211-B6EE-C359E7B1C56A",
+    "height": 50,
+    "width": 251,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filled Button (color)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "127C7E79-A648-4947-A067-18162B213D15",
+      "overrideName": "4DED9D37-F455-4E24-BEA4-96259DE9EABA_stringValue",
+      "value": "Show All"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "284D168A-98B0-43F4-9036-82791473AA92",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9093DA3E-6977-47E5-BBE3-3A942D30BA37",
+  "verticalSpacing": 0
+}

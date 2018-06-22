@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7C52186B-D5EE-4518-A16E-3BEBFAF63B93",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8B55089-62F1-4D68-A4A4-68B5E5B2296D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA119E15-1CB6-489E-9925-BE1E74AB45A8",
+    "height": 50,
+    "width": 150,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filled Button (color)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD564134-F962-49E5-9924-39AED362314C",
+      "overrideName": "4DED9D37-F455-4E24-BEA4-96259DE9EABA_stringValue",
+      "value": "Sign In"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9C12759-D823-4EEF-BBCB-F81C61FEDBA0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9093DA3E-6977-47E5-BBE3-3A942D30BA37",
+  "verticalSpacing": 0
+}

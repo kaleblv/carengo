@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "53844CDF-2C52-4EB5-8385-C7A61FA881EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4A1CF45-1D78-44A8-B714-684241C3FBD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "072246C8-5568-4371-85FC-1FE11C482CF3",
+    "height": 267,
+    "width": 1140,
+    "x": 390,
+    "y": 1994
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Car item list Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8C2FB32-C5F4-4B37-BFA4-5D9E6E8036CF",
+      "overrideName": "D44B2F80-BAE3-49D2-89DE-C77C1DA24FB9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/255e58298135413645f8d23068747485b3ea15a5.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D056D32-B604-4B41-B4B6-1F3B5F5906A4",
+      "overrideName": "32AE2D32-1D96-40B5-903D-FB2FEF9CD3CE_stringValue",
+      "value": "Honda Fit 2016"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C08C6CB-73E7-4E7F-90DB-71CBC05C11EF",
+      "overrideName": "97A975B6-902A-4C32-93E3-45F3FD4F2D23_stringValue",
+      "value": "Auto en excelentes condiciones"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41B4399E-11E4-48C2-868F-7BDA067F9F15",
+      "overrideName": "30D30484-3FA5-4E07-8F87-D541DDE20DA6_stringValue",
+      "value": "Automático"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "762360E5-552E-45BD-87A3-20E764B54A12",
+      "overrideName": "789BC7D0-3FF0-43F2-8C81-644D28B8CD76/F4D7CBEA-8074-4A1E-A719-5BDEEAB6C804_stringValue",
+      "value": "$750 / Día"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6162BEF8-F49F-4018-B3C3-7EC1C7A58F39",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E54F79D7-C800-428B-B5F3-7590FFAF8052",
+  "verticalSpacing": 0
+}

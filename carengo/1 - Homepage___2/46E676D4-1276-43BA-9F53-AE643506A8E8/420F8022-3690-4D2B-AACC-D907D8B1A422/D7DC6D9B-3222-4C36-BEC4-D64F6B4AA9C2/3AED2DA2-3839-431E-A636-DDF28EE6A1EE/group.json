@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "3AED2DA2-3839-431E-A636-DDF28EE6A1EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 263,
+    "x": 45,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "37A8B53F-5255-46BD-B752-7FC4F34DC504"
+    },
+    {
+      "class": "text",
+      "id": "C067057D-4FE1-4719-9EBF-DDCD59F38B41"
+    },
+    {
+      "class": "text",
+      "id": "6624D444-5D61-432C-AA67-483860E4FB74"
+    },
+    {
+      "class": "text",
+      "id": "64116037-288A-4794-BA99-7CBF456A2161"
+    }
+  ],
+  "name": "Pick Up",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

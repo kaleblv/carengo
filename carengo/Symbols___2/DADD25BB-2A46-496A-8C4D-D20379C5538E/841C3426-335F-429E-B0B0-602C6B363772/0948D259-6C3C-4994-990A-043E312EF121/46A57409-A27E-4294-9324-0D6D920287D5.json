@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "46A57409-A27E-4294-9324-0D6D920287D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9ABC935C-C3DE-4984-BDBA-A9B07F0FC530",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "129F882D-AA24-413C-8731-CE140535C67B",
+    "height": 18,
+    "width": 140,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "carengo-logo-white",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8FAD502A-987E-4393-B02F-A3579E0F2435",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D7C5A69F-51DE-47D5-ADD0-1D4144191763",
+  "verticalSpacing": 0
+}

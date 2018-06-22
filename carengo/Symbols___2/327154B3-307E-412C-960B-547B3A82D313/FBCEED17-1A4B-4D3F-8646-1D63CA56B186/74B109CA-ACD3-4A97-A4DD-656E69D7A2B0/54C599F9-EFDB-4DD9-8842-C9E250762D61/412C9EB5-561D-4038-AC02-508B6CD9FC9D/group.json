@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "412C9EB5-561D-4038-AC02-508B6CD9FC9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "189D4837-45C1-494B-AB8F-EB6311EECB80",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0DD340F8-74FC-44D6-99F8-DF8C70DC4576",
+    "height": 17,
+    "width": 21,
+    "x": 0,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5D0CE4F2-FFD0-456B-BF27-D4AB71393B4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "704708FB-5DB9-4982-BCD3-223A6FEFB852"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "497BB6C8-E40F-4EEB-B54F-A7C02DF0E70D"
+    }
+  ],
+  "name": "Door icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "191A0473-D304-49AD-8159-C315643B8B4E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

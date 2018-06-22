@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EABAB12C-842B-4C50-8472-D3EA79C3F4E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08F8DA31-B940-4ABC-8671-64686844FF97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90EF4B16-60E5-4190-BD16-EB9DF58BE662",
+    "height": 328,
+    "width": 667,
+    "x": 390,
+    "y": 1329
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Car amenities",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4CF98597-1469-4125-9BC7-034139B239B2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BCD88F07-67AF-43E6-9AA9-B27A314A9112",
+  "verticalSpacing": 0
+}

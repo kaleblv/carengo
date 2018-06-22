@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "09AD6779-8495-4DF2-AAD3-C7AE6646A0C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E03F445-B1DA-405C-A8C4-FE7D708FE47D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27712A22-24F9-4B48-BE48-007407A112EE",
+    "height": 491,
+    "width": 1140,
+    "x": 390,
+    "y": 501
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "59C6232E-89CA-41C7-ABE6-966FD967E78C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98236316-3500-4D46-8494-E8DD4B55648D"
+    },
+    {
+      "class": "group",
+      "id": "CE855AD6-2F81-43BD-9993-6110922CA8FC"
+    },
+    {
+      "class": "group",
+      "id": "2369D2AF-D130-4E6E-88F9-8EF56AA97005"
+    },
+    {
+      "class": "group",
+      "id": "EA1ABE4E-47AE-47FC-B86D-CAE85FEE428D"
+    },
+    {
+      "class": "group",
+      "id": "BEE36F81-F189-4A3F-B881-136C2D3BDB46"
+    },
+    {
+      "class": "group",
+      "id": "1102D3CF-8DA6-4C9B-82A0-36B30C59FE96"
+    },
+    {
+      "class": "group",
+      "id": "4F862AE4-0657-49A5-A978-9A94B5C004F4"
+    },
+    {
+      "class": "group",
+      "id": "6CAB24B3-1FE2-4E20-ADB9-BE3CE4C40376"
+    }
+  ],
+  "name": "Sign up form",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C300443F-0E1C-486D-BF36-ECAF3A8CAA4B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

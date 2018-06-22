@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "do_objectID": "EC575F7C-B013-46AA-B605-6B440CB181CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5989EA59-4114-4CE0-A154-F7C1604275B7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98522040-5FFE-4FE8-8AFC-2C0D4F53655C",
+    "height": 3210,
+    "width": 3210,
+    "x": -1076,
+    "y": -1121
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B7B4393A-8198-4BAF-9D3E-753D07CF11DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05790FEB-55D9-4913-9AFD-7E74AA53528F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52287F19-B17A-4FD4-A20E-9514D303CC53"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16896E62-DE8E-4BA1-A6ED-991034516F99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "74FBA7ED-6665-4DB4-BE77-281066647C6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3ABEB342-BAE1-4609-BEA4-B56ACC2ACB5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A80AA8A-2A10-4E13-BE2E-E21067190880"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F996CB27-18AC-4F13-9F22-252233FE0103"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06525012-EC2F-433F-A245-AAA1AE255BA5"
+    }
+  ],
+  "name": "Circles",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "0EF9EA27-E84C-45CF-9DD3-6406508D2545",
+      "opacity": 0.5999999642372131
+    },
+    "do_objectID": "E48311F5-901C-4250-8238-3417A0AF1C5E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

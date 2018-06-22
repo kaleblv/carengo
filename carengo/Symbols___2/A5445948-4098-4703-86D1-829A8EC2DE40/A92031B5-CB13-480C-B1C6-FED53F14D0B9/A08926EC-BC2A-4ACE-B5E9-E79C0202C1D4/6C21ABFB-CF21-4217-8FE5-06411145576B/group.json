@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6C21ABFB-CF21-4217-8FE5-06411145576B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 204,
+    "x": 337,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EF87DB5D-EF5E-4DF3-8EC0-52E37BD0B916"
+    },
+    {
+      "class": "text",
+      "id": "162249DF-005B-4F22-AD4D-0998B37511CE"
+    },
+    {
+      "class": "text",
+      "id": "BDC9C2E4-4BD3-4414-8CDA-4DE9CB71ECDD"
+    },
+    {
+      "class": "text",
+      "id": "26D8E1B9-5AFA-4321-8453-CCC179DC9FFD"
+    }
+  ],
+  "name": "Check In",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
