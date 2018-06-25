@@ -1,0 +1,95 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "FB362307-D0E0-4453-A12D-B7A0F4E52CFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14F40EF1-795D-494F-BDF0-C44AA44A199A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1B20963C-18B8-412A-BAA3-D75531075052",
+    "height": 5.519131030433501,
+    "width": 5.494933749025707,
+    "x": 15.01948558067031,
+    "y": 7.358841373911341
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "BC64B0A9-256C-4DCA-B50B-3E791259FD2B"
+    }
+  ],
+  "name": "object",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CB207D7F-1BB2-4300-93AB-0142C1F7CD13",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.8
+      }
+    ],
+    "do_objectID": "10C8DDCD-F4E4-41C6-AFD4-F88A9E9F94BE",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2062816663123582,
+          "green": 0.6642175381275062,
+          "red": 0.9001381802721088
+        },
+        "do_objectID": "D128A263-1AF3-4F4A-977B-034AE4945658",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

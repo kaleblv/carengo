@@ -13,6 +13,15 @@
     "_class": "exportOptions",
     "do_objectID": "6FF59322-4457-4690-8ACE-E003749F02B4",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -101,6 +110,14 @@
     {
       "class": "symbolInstance",
       "id": "D189ECA0-E858-4992-9E8D-EA1B3715863B"
+    },
+    {
+      "class": "group",
+      "id": "6AA1A1A3-3179-49D0-ABED-BAD305F11E09"
+    },
+    {
+      "class": "group",
+      "id": "F6F412A7-4E4A-4AEF-A333-F26DBC61998B"
     }
   ],
   "layout": {
